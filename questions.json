@@ -1,0 +1,3850 @@
+[
+  {
+    "section": 1,
+    "topic": "Cloud advantages",
+    "source": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html",
+    "id": "1-1-a",
+    "type": "single",
+    "prompt": "A startup cannot afford a large server purchase before its product has customers. It wants its infrastructure spending to follow actual resource consumption. Which cloud advantage best supports this requirement?",
+    "options": [
+      "Trade fixed expense for variable expense",
+      "Go global in minutes",
+      "Eliminate all IT expenses",
+      "Purchase permanent peak capacity"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Usage-based spending can replace large upfront infrastructure purchases. Customers can pay for resources as they consume them."
+  },
+  {
+    "section": 1,
+    "topic": "Cloud advantages",
+    "source": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html",
+    "id": "1-1-b",
+    "type": "multi",
+    "prompt": "A startup cannot afford a large server purchase before its product has customers. It wants its infrastructure spending to follow actual resource consumption. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "Usage-based spending can replace large upfront infrastructure purchases.",
+      "Cloud computing eliminates all operating expenses.",
+      "Customers can pay for resources as they consume them.",
+      "Cloud spending is always a fixed upfront hardware purchase.",
+      "Using cloud removes the need to track consumption."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Usage-based spending can replace large upfront infrastructure purchases. Customers can pay for resources as they consume them. Choose the cloud benefit or model that matches the stated requirement."
+  },
+  {
+    "section": 1,
+    "topic": "Economies of scale",
+    "source": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html",
+    "id": "1-2-a",
+    "type": "single",
+    "prompt": "A small business cannot obtain the hardware purchase discounts available to a provider serving thousands of customers. Its finance director asks why a large cloud provider can offer lower per-unit infrastructure costs. What best explains this difference?",
+    "options": [
+      "Aggregated demand creates economies of scale",
+      "Every customer buys physical hardware",
+      "Capacity can never change",
+      "All services are free"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Aggregating demand across customers can lower per-unit costs. Economies of scale concerns cost efficiency at large scale."
+  },
+  {
+    "section": 1,
+    "topic": "Economies of scale",
+    "source": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html",
+    "id": "1-2-b",
+    "type": "multi",
+    "prompt": "A small business cannot obtain the hardware purchase discounts available to a provider serving thousands of customers. Its finance director asks why a large cloud provider can offer lower per-unit infrastructure costs. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "Aggregating demand across customers can lower per-unit costs.",
+      "Economies of scale means automatically adding application servers.",
+      "Economies of scale concerns cost efficiency at large scale.",
+      "Lower per-unit costs are primarily caused by automatic application scaling.",
+      "Each customer must reserve maximum capacity for scale benefits."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Aggregating demand across customers can lower per-unit costs. Economies of scale concerns cost efficiency at large scale. Choose the cloud benefit or model that matches the stated requirement."
+  },
+  {
+    "section": 1,
+    "topic": "Capacity planning",
+    "source": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html",
+    "id": "1-3-a",
+    "type": "single",
+    "prompt": "A ticketing company expects a surge when concert tickets go on sale, but cannot accurately predict the peak. Buying enough servers for the largest possible surge would leave most idle afterward. Which cloud advantage best addresses this problem?",
+    "options": [
+      "Stop guessing capacity",
+      "Always buy peak capacity",
+      "Use only one data center",
+      "Avoid measuring usage"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Cloud capacity can be adjusted as workload needs change. Provisioning for permanent peak demand can leave idle resources."
+  },
+  {
+    "section": 1,
+    "topic": "Capacity planning",
+    "source": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html",
+    "id": "1-3-b",
+    "type": "multi",
+    "prompt": "A ticketing company expects a surge when concert tickets go on sale, but cannot accurately predict the peak. Buying enough servers for the largest possible surge would leave most idle afterward. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "Cloud capacity can be adjusted as workload needs change.",
+      "Cloud users must purchase their expected peak capacity upfront.",
+      "Provisioning for permanent peak demand can leave idle resources.",
+      "Capacity must remain fixed after the first deployment.",
+      "Peak capacity must be purchased before usage is known."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Cloud capacity can be adjusted as workload needs change. Provisioning for permanent peak demand can leave idle resources. Choose the cloud benefit or model that matches the stated requirement."
+  },
+  {
+    "section": 1,
+    "topic": "Agility",
+    "source": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html",
+    "id": "1-4-a",
+    "type": "single",
+    "prompt": "A development team waits three weeks for each new testing server. Management wants engineers to test ideas immediately and abandon unsuccessful experiments without lengthy procurement. Which cloud advantage best supports this goal?",
+    "options": [
+      "Increased speed and agility",
+      "Global deployment",
+      "Fixed capacity",
+      "Hardware ownership"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Rapid resource provisioning allows faster experimentation. Temporary test environments can be created and removed quickly."
+  },
+  {
+    "section": 1,
+    "topic": "Agility",
+    "source": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html",
+    "id": "1-4-b",
+    "type": "multi",
+    "prompt": "A development team waits three weeks for each new testing server. Management wants engineers to test ideas immediately and abandon unsuccessful experiments without lengthy procurement. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "Rapid resource provisioning allows faster experimentation.",
+      "Provisioning a local test environment faster is primarily going global.",
+      "Temporary test environments can be created and removed quickly.",
+      "Faster testing primarily illustrates deployment closer to international users.",
+      "Reducing procurement time is the same as buying reserved capacity."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Rapid resource provisioning allows faster experimentation. Temporary test environments can be created and removed quickly. Choose the cloud benefit or model that matches the stated requirement."
+  },
+  {
+    "section": 1,
+    "topic": "Data center maintenance",
+    "source": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html",
+    "id": "1-5-a",
+    "type": "single",
+    "prompt": "An online retailer's IT team spends much of its time replacing server hardware and maintaining power and cooling systems. Management wants the team to focus on improving the shopping application. Which cloud advantage best addresses this priority?",
+    "options": [
+      "Stop running and maintaining data centers",
+      "Stop managing all application permissions",
+      "Guarantee free compute",
+      "Increase hardware procurement"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "AWS operates the physical infrastructure supporting its cloud. Customers can focus more effort on their applications."
+  },
+  {
+    "section": 1,
+    "topic": "Data center maintenance",
+    "source": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html",
+    "id": "1-5-b",
+    "type": "multi",
+    "prompt": "An online retailer's IT team spends much of its time replacing server hardware and maintaining power and cooling systems. Management wants the team to focus on improving the shopping application. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "AWS operates the physical infrastructure supporting its cloud.",
+      "AWS customers must maintain cooling systems in AWS data centers.",
+      "Customers can focus more effort on their applications.",
+      "Customers replace failed physical AWS servers.",
+      "AWS operates only the customer application; customers operate its buildings."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "AWS operates the physical infrastructure supporting its cloud. Customers can focus more effort on their applications. Choose the cloud benefit or model that matches the stated requirement."
+  },
+  {
+    "section": 1,
+    "topic": "Global reach",
+    "source": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html",
+    "id": "1-6-a",
+    "type": "single",
+    "prompt": "A US company is expanding into Europe and Asia. Customers far from its existing application experience slow responses, so the company wants to deploy closer to them. Which cloud advantage best supports this plan?",
+    "options": [
+      "Go global in minutes",
+      "Single-site hardware ownership",
+      "Fixed capacity planning",
+      "Stop monitoring bills"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Using multiple Regions can bring applications closer to users. Geographic deployment can reduce distance-related latency."
+  },
+  {
+    "section": 1,
+    "topic": "Global reach",
+    "source": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html",
+    "id": "1-6-b",
+    "type": "multi",
+    "prompt": "A US company is expanding into Europe and Asia. Customers far from its existing application experience slow responses, so the company wants to deploy closer to them. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "Using multiple Regions can bring applications closer to users.",
+      "Going global means automatically reducing servers when traffic falls.",
+      "Geographic deployment can reduce distance-related latency.",
+      "Deploying in different Regions means adding RAM to a single server.",
+      "Edge caching and guest OS patching are identical tasks."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Using multiple Regions can bring applications closer to users. Geographic deployment can reduce distance-related latency. Choose the cloud benefit or model that matches the stated requirement."
+  },
+  {
+    "section": 1,
+    "topic": "Elasticity",
+    "source": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html",
+    "id": "1-7-a",
+    "type": "single",
+    "prompt": "A food-delivery application receives heavy traffic at lunch and dinner but little traffic overnight. Its capacity increases during busy periods and decreases when requests fall. Which cloud concept best describes this behavior?",
+    "options": [
+      "Elasticity",
+      "Durability",
+      "Static capacity",
+      "Total cost of ownership"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Elasticity adjusts resource capacity as demand changes. Reducing unnecessary capacity is part of elasticity."
+  },
+  {
+    "section": 1,
+    "topic": "Elasticity",
+    "source": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html",
+    "id": "1-7-b",
+    "type": "multi",
+    "prompt": "A food-delivery application receives heavy traffic at lunch and dinner but little traffic overnight. Its capacity increases during busy periods and decreases when requests fall. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "Elasticity adjusts resource capacity as demand changes.",
+      "Elasticity means only adding resources and never removing them.",
+      "Reducing unnecessary capacity is part of elasticity.",
+      "An elastic system must retain peak capacity after demand falls.",
+      "Elasticity refers to the probability of avoiding stored-data loss."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Elasticity adjusts resource capacity as demand changes. Reducing unnecessary capacity is part of elasticity. Choose the cloud benefit or model that matches the stated requirement."
+  },
+  {
+    "section": 1,
+    "topic": "Horizontal scaling",
+    "source": "https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html",
+    "id": "1-8-a",
+    "type": "single",
+    "prompt": "A university registration application needs to handle more simultaneous users. The team keeps its existing server size and adds several servers that share incoming requests. Which type of scaling is illustrated?",
+    "options": [
+      "Horizontal scaling",
+      "Vertical scaling",
+      "Encryption",
+      "Archiving"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Horizontal scaling adds more compute instances. Distributing work among more servers can increase capacity."
+  },
+  {
+    "section": 1,
+    "topic": "Horizontal scaling",
+    "source": "https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html",
+    "id": "1-8-b",
+    "type": "multi",
+    "prompt": "A university registration application needs to handle more simultaneous users. The team keeps its existing server size and adds several servers that share incoming requests. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "Horizontal scaling adds more compute instances.",
+      "Adding three servers is vertical scaling.",
+      "Distributing work among more servers can increase capacity.",
+      "Adding more servers is vertical scaling.",
+      "Horizontal scaling requires replacing one server with a larger server."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Horizontal scaling adds more compute instances. Distributing work among more servers can increase capacity. Choose the cloud benefit or model that matches the stated requirement."
+  },
+  {
+    "section": 1,
+    "topic": "Vertical scaling",
+    "source": "https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/select-the-correct-resource-type-size-and-number.html",
+    "id": "1-9-a",
+    "type": "single",
+    "prompt": "A database application needs more memory on its existing compute node. The team replaces the instance with a larger type offering additional CPU and RAM rather than adding more nodes. Which type of scaling is illustrated?",
+    "options": [
+      "Vertical scaling",
+      "Horizontal scaling",
+      "Hybrid deployment",
+      "Key rotation"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Vertical scaling increases the capacity of an individual resource. A larger instance can support more demanding workloads."
+  },
+  {
+    "section": 1,
+    "topic": "Vertical scaling",
+    "source": "https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/select-the-correct-resource-type-size-and-number.html",
+    "id": "1-9-b",
+    "type": "multi",
+    "prompt": "A database application needs more memory on its existing compute node. The team replaces the instance with a larger type offering additional CPU and RAM rather than adding more nodes. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "Vertical scaling increases the capacity of an individual resource.",
+      "Increasing one server's RAM is horizontal scaling.",
+      "A larger instance can support more demanding workloads.",
+      "Adding more instances is vertical scaling.",
+      "Changing one instance size is the same as adding a second Region."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Vertical scaling increases the capacity of an individual resource. A larger instance can support more demanding workloads. Choose the cloud benefit or model that matches the stated requirement."
+  },
+  {
+    "section": 1,
+    "topic": "IaaS",
+    "source": "https://aws.amazon.com/types-of-cloud-computing/",
+    "id": "1-10-a",
+    "type": "single",
+    "prompt": "A software team needs control over its server operating system and installed packages. It rents virtual servers from a provider but remains responsible for OS patches and application deployment. Which service model best describes this arrangement?",
+    "options": [
+      "Infrastructure as a Service",
+      "Software as a Service",
+      "Platform as a Service",
+      "On-premises deployment"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "IaaS gives customers infrastructure building blocks. Customers manage the software they install on IaaS servers."
+  },
+  {
+    "section": 1,
+    "topic": "IaaS",
+    "source": "https://aws.amazon.com/types-of-cloud-computing/",
+    "id": "1-10-b",
+    "type": "multi",
+    "prompt": "A software team needs control over its server operating system and installed packages. It rents virtual servers from a provider but remains responsible for OS patches and application deployment. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "IaaS gives customers infrastructure building blocks.",
+      "IaaS means consuming only a finished vendor application.",
+      "Customers manage the software they install on IaaS servers.",
+      "IaaS customers consume only a finished vendor application.",
+      "IaaS customers must maintain the cloud provider's physical facilities."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "IaaS gives customers infrastructure building blocks. Customers manage the software they install on IaaS servers. Choose the cloud benefit or model that matches the stated requirement."
+  },
+  {
+    "section": 1,
+    "topic": "PaaS",
+    "source": "https://aws.amazon.com/types-of-cloud-computing/",
+    "id": "1-11-a",
+    "type": "single",
+    "prompt": "A small development team wants to upload its application code without maintaining the underlying server operating system or runtime. The provider manages those platform components. Which service model best fits this requirement?",
+    "options": [
+      "Platform as a Service",
+      "Infrastructure as a Service",
+      "Software as a Service",
+      "Hybrid deployment"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "PaaS abstracts management of the underlying platform. Developers can focus on deploying and managing applications."
+  },
+  {
+    "section": 1,
+    "topic": "PaaS",
+    "source": "https://aws.amazon.com/types-of-cloud-computing/",
+    "id": "1-11-b",
+    "type": "tf",
+    "prompt": "A small development team wants to upload its application code without maintaining the underlying server operating system or runtime. The provider manages those platform components. True or false: PaaS abstracts management of the underlying platform.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "PaaS abstracts management of the underlying platform. Developers can focus on deploying and managing applications."
+  },
+  {
+    "section": 1,
+    "topic": "SaaS",
+    "source": "https://aws.amazon.com/types-of-cloud-computing/",
+    "id": "1-12-a",
+    "type": "single",
+    "prompt": "A company subscribes to an online collaboration application for its employees. The vendor operates the finished application, and employees simply sign in to use it. Which cloud service model best describes this arrangement?",
+    "options": [
+      "Software as a Service",
+      "Infrastructure as a Service",
+      "Platform as a Service",
+      "Private subnet"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "SaaS supplies a finished application operated by the provider. Customers use the application instead of building its underlying stack."
+  },
+  {
+    "section": 1,
+    "topic": "SaaS",
+    "source": "https://aws.amazon.com/types-of-cloud-computing/",
+    "id": "1-12-b",
+    "type": "tf",
+    "prompt": "A company subscribes to an online collaboration application for its employees. The vendor operates the finished application, and employees simply sign in to use it. True or false: SaaS requires every customer to install the provider's operating system.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "SaaS supplies a finished application operated by the provider. Customers use the application instead of building its underlying stack."
+  },
+  {
+    "section": 1,
+    "topic": "Hybrid",
+    "source": "https://aws.amazon.com/types-of-cloud-computing/",
+    "id": "1-13-a",
+    "type": "single",
+    "prompt": "A manufacturer keeps an internal production system in its own data center but connects it to an analytics application hosted in AWS. Both environments work together. Which deployment model best describes this architecture?",
+    "options": [
+      "Hybrid",
+      "Cloud-only",
+      "On-premises only",
+      "SaaS as a deployment model"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Hybrid connects cloud resources with existing infrastructure. Hybrid is a deployment classification rather than an IaaS/PaaS/SaaS model."
+  },
+  {
+    "section": 1,
+    "topic": "Hybrid",
+    "source": "https://aws.amazon.com/types-of-cloud-computing/",
+    "id": "1-13-b",
+    "type": "tf",
+    "prompt": "A manufacturer keeps an internal production system in its own data center but connects it to an analytics application hosted in AWS. Both environments work together. True or false: Hybrid connects cloud resources with existing infrastructure.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Hybrid connects cloud resources with existing infrastructure. Hybrid is a deployment classification rather than an IaaS/PaaS/SaaS model."
+  },
+  {
+    "section": 1,
+    "topic": "On-premises",
+    "source": "https://aws.amazon.com/types-of-cloud-computing/",
+    "id": "1-14-a",
+    "type": "single",
+    "prompt": "A company operates its applications on virtual machines in its own building. Its employees manage the servers, physical equipment, and facilities, and no cloud provider is involved. Which deployment model best fits?",
+    "options": [
+      "On-premises",
+      "Hybrid",
+      "Public cloud-only",
+      "Serverless"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "On-premises infrastructure is operated in the organization's own environment. The organization manages its physical facilities and hardware."
+  },
+  {
+    "section": 1,
+    "topic": "On-premises",
+    "source": "https://aws.amazon.com/types-of-cloud-computing/",
+    "id": "1-14-b",
+    "type": "tf",
+    "prompt": "A company operates its applications on virtual machines in its own building. Its employees manage the servers, physical equipment, and facilities, and no cloud provider is involved. True or false: Virtualizing servers in your own data center automatically creates hybrid cloud.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "On-premises infrastructure is operated in the organization's own environment. The organization manages its physical facilities and hardware."
+  },
+  {
+    "section": 1,
+    "topic": "CAF Business",
+    "source": "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/foundational-capabilities.html",
+    "id": "1-15-a",
+    "type": "single",
+    "prompt": "A retailer considers funding a cloud ordering project. Leaders evaluate whether it will increase revenue, shorten product launch times, and support the company's strategy. Which AWS CAF perspective best fits these decisions?",
+    "options": [
+      "Business",
+      "People",
+      "Platform",
+      "Operations"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "The Business perspective connects cloud investments to business outcomes. Business strategy can guide cloud investment decisions."
+  },
+  {
+    "section": 1,
+    "topic": "CAF Business",
+    "source": "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/foundational-capabilities.html",
+    "id": "1-15-b",
+    "type": "tf",
+    "prompt": "A retailer considers funding a cloud ordering project. Leaders evaluate whether it will increase revenue, shorten product launch times, and support the company's strategy. True or false: The Business perspective connects cloud investments to business outcomes.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "The Business perspective connects cloud investments to business outcomes. Business strategy can guide cloud investment decisions."
+  },
+  {
+    "section": 1,
+    "topic": "CAF People",
+    "source": "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/foundational-capabilities.html",
+    "id": "1-16-a",
+    "type": "single",
+    "prompt": "A hospital plans to adopt cloud services but employees lack the necessary skills. It creates training programs, adjusts team responsibilities, and prepares leaders to guide organizational change. Which CAF perspective best fits these activities?",
+    "options": [
+      "People",
+      "Operations",
+      "Platform",
+      "Security"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "The People perspective addresses workforce and organizational change. Cloud skills and leadership development fit the People perspective."
+  },
+  {
+    "section": 1,
+    "topic": "CAF People",
+    "source": "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/foundational-capabilities.html",
+    "id": "1-16-b",
+    "type": "tf",
+    "prompt": "A hospital plans to adopt cloud services but employees lack the necessary skills. It creates training programs, adjusts team responsibilities, and prepares leaders to guide organizational change. True or false: Training employees primarily belongs to the Operations perspective.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "The People perspective addresses workforce and organizational change. Cloud skills and leadership development fit the People perspective."
+  },
+  {
+    "section": 1,
+    "topic": "CAF Governance",
+    "source": "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/foundational-capabilities.html",
+    "id": "1-17-a",
+    "type": "single",
+    "prompt": "A company has several cloud initiatives underway. Leadership introduces investment reviews, ownership requirements, and risk checkpoints to ensure those initiatives deliver value. Which CAF perspective best fits this work?",
+    "options": [
+      "Governance",
+      "Platform",
+      "People",
+      "Operations"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Governance coordinates initiatives while managing transformation risks. Investment oversight belongs to Governance."
+  },
+  {
+    "section": 1,
+    "topic": "CAF Governance",
+    "source": "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/foundational-capabilities.html",
+    "id": "1-17-b",
+    "type": "tf",
+    "prompt": "A company has several cloud initiatives underway. Leadership introduces investment reviews, ownership requirements, and risk checkpoints to ensure those initiatives deliver value. True or false: Governance coordinates initiatives while managing transformation risks.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Governance coordinates initiatives while managing transformation risks. Investment oversight belongs to Governance."
+  },
+  {
+    "section": 1,
+    "topic": "CAF Platform",
+    "source": "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/foundational-capabilities.html",
+    "id": "1-18-a",
+    "type": "single",
+    "prompt": "A university wants departments to deploy applications on a consistent cloud foundation. Engineers build reusable infrastructure templates and standard networking patterns that support future growth. Which CAF perspective best fits these activities?",
+    "options": [
+      "Platform",
+      "Business",
+      "People",
+      "Governance"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Platform focuses on building a scalable cloud foundation. Reusable infrastructure can support application deployment."
+  },
+  {
+    "section": 1,
+    "topic": "CAF Platform",
+    "source": "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/foundational-capabilities.html",
+    "id": "1-18-b",
+    "type": "tf",
+    "prompt": "A university wants departments to deploy applications on a consistent cloud foundation. Engineers build reusable infrastructure templates and standard networking patterns that support future growth. True or false: Platform primarily concerns employee career planning.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Platform focuses on building a scalable cloud foundation. Reusable infrastructure can support application deployment."
+  },
+  {
+    "section": 1,
+    "topic": "CAF Security",
+    "source": "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/foundational-capabilities.html",
+    "id": "1-19-a",
+    "type": "single",
+    "prompt": "A bank is planning its cloud controls. It wants to protect customer data through encryption, restricted access, and preparation for security incidents. Which CAF perspective best fits these priorities?",
+    "options": [
+      "Security",
+      "People",
+      "Business",
+      "Platform"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Security addresses confidentiality, integrity, and availability. Access controls and data protection fit the Security perspective."
+  },
+  {
+    "section": 1,
+    "topic": "CAF Security",
+    "source": "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/foundational-capabilities.html",
+    "id": "1-19-b",
+    "type": "tf",
+    "prompt": "A bank is planning its cloud controls. It wants to protect customer data through encryption, restricted access, and preparation for security incidents. True or false: Security addresses confidentiality, integrity, and availability.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Security addresses confidentiality, integrity, and availability. Access controls and data protection fit the Security perspective."
+  },
+  {
+    "section": 1,
+    "topic": "CAF Operations",
+    "source": "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/foundational-capabilities.html",
+    "id": "1-20-a",
+    "type": "single",
+    "prompt": "A streaming company wants its cloud services to meet agreed service targets. The team establishes monitoring, incident response, and runbooks for restoring service after failures. Which CAF perspective best fits these activities?",
+    "options": [
+      "Operations",
+      "Business",
+      "People",
+      "Governance"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Operations focuses on delivering services that meet business needs. Monitoring and incident management fit Operations."
+  },
+  {
+    "section": 1,
+    "topic": "CAF Operations",
+    "source": "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/foundational-capabilities.html",
+    "id": "1-20-b",
+    "type": "tf",
+    "prompt": "A streaming company wants its cloud services to meet agreed service targets. The team establishes monitoring, incident response, and runbooks for restoring service after failures. True or false: Operations primarily concerns workforce career development.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Operations focuses on delivering services that meet business needs. Monitoring and incident management fit Operations."
+  },
+  {
+    "section": 1,
+    "topic": "TCO",
+    "source": "https://media.amazonwebservices.com/AWS_TCO_Web_Applications.pdf",
+    "id": "1-21-a",
+    "type": "single",
+    "prompt": "A company compares keeping an application in its data center with moving it to AWS. The analysis includes equipment, licenses, power, cooling, maintenance contracts, and staff effort. Which economic measure is it evaluating?",
+    "options": [
+      "Total cost of ownership",
+      "Only server purchase price",
+      "Elasticity",
+      "Public key encryption"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "TCO includes operating costs as well as initial purchases. Facilities and personnel can be part of on-premises TCO."
+  },
+  {
+    "section": 1,
+    "topic": "TCO",
+    "source": "https://media.amazonwebservices.com/AWS_TCO_Web_Applications.pdf",
+    "id": "1-21-b",
+    "type": "tf",
+    "prompt": "A company compares keeping an application in its data center with moving it to AWS. The analysis includes equipment, licenses, power, cooling, maintenance contracts, and staff effort. True or false: TCO includes operating costs as well as initial purchases.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "TCO includes operating costs as well as initial purchases. Facilities and personnel can be part of on-premises TCO."
+  },
+  {
+    "section": 1,
+    "topic": "Rightsizing",
+    "source": "https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/select-the-correct-resource-type-size-and-number.html",
+    "id": "1-22-a",
+    "type": "single",
+    "prompt": "An application runs on a large instance but consistently uses a small fraction of its CPU and memory. Engineers select a smaller instance that still meets its performance requirements. Which optimization approach is illustrated?",
+    "options": [
+      "Rightsizing",
+      "Going global",
+      "DDoS protection",
+      "Consolidated billing"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Rightsizing matches resources to workload requirements. Avoiding excess capacity can reduce waste."
+  },
+  {
+    "section": 1,
+    "topic": "Rightsizing",
+    "source": "https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/select-the-correct-resource-type-size-and-number.html",
+    "id": "1-22-b",
+    "type": "tf",
+    "prompt": "An application runs on a large instance but consistently uses a small fraction of its CPU and memory. Engineers select a smaller instance that still meets its performance requirements. True or false: Rightsizing always picks the smallest instance even if performance suffers.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Rightsizing matches resources to workload requirements. Avoiding excess capacity can reduce waste."
+  },
+  {
+    "section": 1,
+    "topic": "Well-Architected review",
+    "source": "https://docs.aws.amazon.com/wellarchitected/latest/userguide/wa-framework-review.html",
+    "id": "1-23-a",
+    "type": "single",
+    "prompt": "An architect wants a structured assessment of an existing workload against AWS design best practices. The team needs guided questions and recommendations for improvement. Which AWS tool best supports this requirement?",
+    "options": [
+      "AWS Well-Architected Tool",
+      "AWS Artifact",
+      "Amazon Macie",
+      "AWS Pricing Calculator"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "The Well-Architected Tool supports structured architecture reviews. A review can identify improvement opportunities."
+  },
+  {
+    "section": 1,
+    "topic": "Well-Architected review",
+    "source": "https://docs.aws.amazon.com/wellarchitected/latest/userguide/wa-framework-review.html",
+    "id": "1-23-b",
+    "type": "tf",
+    "prompt": "An architect wants a structured assessment of an existing workload against AWS design best practices. The team needs guided questions and recommendations for improvement. True or false: The Well-Architected Tool supports structured architecture reviews.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "The Well-Architected Tool supports structured architecture reviews. A review can identify improvement opportunities."
+  },
+  {
+    "section": 1,
+    "topic": "Model distinctions",
+    "source": "https://aws.amazon.com/types-of-cloud-computing/",
+    "id": "1-24-a",
+    "type": "single",
+    "prompt": "A company keeps internal systems on-premises and connects them to AWS virtual machines. Its team installs and patches the operating systems on those virtual machines. Which deployment and service-model pairing best describes the setup?",
+    "options": [
+      "Hybrid deployment with IaaS",
+      "Cloud-only SaaS",
+      "On-premises-only PaaS",
+      "Hybrid as a service model"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Service and deployment models describe different aspects of a solution. A hybrid environment can use IaaS resources."
+  },
+  {
+    "section": 1,
+    "topic": "Model distinctions",
+    "source": "https://aws.amazon.com/types-of-cloud-computing/",
+    "id": "1-24-b",
+    "type": "tf",
+    "prompt": "A company keeps internal systems on-premises and connects them to AWS virtual machines. Its team installs and patches the operating systems on those virtual machines. True or false: Hybrid and IaaS are names for exactly the same classification.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Service and deployment models describe different aspects of a solution. A hybrid environment can use IaaS resources."
+  },
+  {
+    "section": 1,
+    "topic": "Cloud tradeoffs",
+    "source": "https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/select-the-correct-resource-type-size-and-number.html",
+    "id": "1-25-a",
+    "type": "single",
+    "prompt": "A manager assumes that migrating an application to AWS will reduce costs regardless of its architecture or usage. The finance team wants a sound basis for the decision. What is the best response to the manager's assumption?",
+    "options": [
+      "Evaluate the workload and full costs; savings are not automatic",
+      "All cloud usage is free",
+      "Cost analysis is unnecessary",
+      "Every service costs the same"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Cloud costs depend on resource choices and usage. Cost optimization remains an ongoing customer activity."
+  },
+  {
+    "section": 1,
+    "topic": "Cloud tradeoffs",
+    "source": "https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/select-the-correct-resource-type-size-and-number.html",
+    "id": "1-25-b",
+    "type": "tf",
+    "prompt": "A manager assumes that migrating an application to AWS will reduce costs regardless of its architecture or usage. The finance team wants a sound basis for the decision. True or false: Cloud costs depend on resource choices and usage.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Cloud costs depend on resource choices and usage. Cost optimization remains an ongoing customer activity."
+  },
+  {
+    "section": 2,
+    "topic": "EC2 responsibility",
+    "source": "https://aws.amazon.com/compliance/shared-responsibility-model/",
+    "id": "2-1-a",
+    "type": "single",
+    "prompt": "A company runs a customer-facing application on EC2. A new security update is available for the guest operating system installed on the instance. Under the shared responsibility model, who is responsible for applying that update?",
+    "options": [
+      "The customer",
+      "AWS data center staff",
+      "The certificate authority",
+      "The internet provider"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Customers manage EC2 guest OS patches. Customers manage their installed EC2 applications."
+  },
+  {
+    "section": 2,
+    "topic": "EC2 responsibility",
+    "source": "https://aws.amazon.com/compliance/shared-responsibility-model/",
+    "id": "2-1-b",
+    "type": "multi",
+    "prompt": "A company runs a customer-facing application on EC2. A new security update is available for the guest operating system installed on the instance. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "Customers manage EC2 guest OS patches.",
+      "AWS automatically patches every EC2 guest OS on the customer's behalf.",
+      "Customers manage their installed EC2 applications.",
+      "AWS manages security groups on behalf of all EC2 customers.",
+      "Customers maintain the underlying AWS virtualization layer."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Customers manage EC2 guest OS patches. Customers manage their installed EC2 applications. Access permissions, network controls, and infrastructure responsibilities are separate concerns."
+  },
+  {
+    "section": 2,
+    "topic": "Physical responsibility",
+    "source": "https://aws.amazon.com/compliance/shared-responsibility-model/",
+    "id": "2-2-a",
+    "type": "single",
+    "prompt": "A company deploys applications in AWS and wants to identify who controls access to the physical data centers and maintains their server hardware. Under the shared responsibility model, who is responsible for these controls?",
+    "options": [
+      "AWS",
+      "The EC2 customer",
+      "Each application developer",
+      "The IAM group"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "AWS secures its physical cloud infrastructure. Customers do not replace failed AWS physical server hardware."
+  },
+  {
+    "section": 2,
+    "topic": "Physical responsibility",
+    "source": "https://aws.amazon.com/compliance/shared-responsibility-model/",
+    "id": "2-2-b",
+    "type": "multi",
+    "prompt": "A company deploys applications in AWS and wants to identify who controls access to the physical data centers and maintains their server hardware. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "AWS secures its physical cloud infrastructure.",
+      "Customers must secure the doors of AWS data centers.",
+      "Customers do not replace failed AWS physical server hardware.",
+      "Customers must replace failed physical AWS server disks.",
+      "AWS operates the guest applications instead of its physical facilities."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "AWS secures its physical cloud infrastructure. Customers do not replace failed AWS physical server hardware. Access permissions, network controls, and infrastructure responsibilities are separate concerns."
+  },
+  {
+    "section": 2,
+    "topic": "Managed services",
+    "source": "https://aws.amazon.com/compliance/shared-responsibility-model/",
+    "id": "2-3-a",
+    "type": "single",
+    "prompt": "A company moves its database from an EC2 instance to Amazon RDS to reduce infrastructure administration. It still stores confidential customer information. Which responsibility remains with the company?",
+    "options": [
+      "Managing access to its data",
+      "Replacing AWS disks",
+      "Maintaining AWS cooling",
+      "Securing physical AWS hosts"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Managed services do not remove customer data-access responsibilities. The responsibility split depends on the service used."
+  },
+  {
+    "section": 2,
+    "topic": "Managed services",
+    "source": "https://aws.amazon.com/compliance/shared-responsibility-model/",
+    "id": "2-3-b",
+    "type": "multi",
+    "prompt": "A company moves its database from an EC2 instance to Amazon RDS to reduce infrastructure administration. It still stores confidential customer information. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "Managed services do not remove customer data-access responsibilities.",
+      "Adopting a managed database removes all customer security duties.",
+      "The responsibility split depends on the service used.",
+      "RDS transfers all data-access decisions to AWS.",
+      "Database users no longer require appropriate permissions on RDS."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Managed services do not remove customer data-access responsibilities. The responsibility split depends on the service used. Access permissions, network controls, and infrastructure responsibilities are separate concerns."
+  },
+  {
+    "section": 2,
+    "topic": "EC2 role",
+    "source": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+    "id": "2-4-a",
+    "type": "single",
+    "prompt": "An application running on EC2 needs to read objects from a private S3 bucket. The team wants to avoid storing long-term credentials in its source code or configuration files. Which approach best meets these requirements?",
+    "options": [
+      "An IAM role with required S3 permissions",
+      "Root credentials in code",
+      "A public bucket",
+      "A shared administrator password"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "EC2 applications can use role-based temporary credentials. Role permissions should be limited to required actions."
+  },
+  {
+    "section": 2,
+    "topic": "EC2 role",
+    "source": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+    "id": "2-4-b",
+    "type": "multi",
+    "prompt": "An application running on EC2 needs to read objects from a private S3 bucket. The team wants to avoid storing long-term credentials in its source code or configuration files. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "EC2 applications can use role-based temporary credentials.",
+      "An EC2 IAM role requires hard-coded permanent root keys.",
+      "Role permissions should be limited to required actions.",
+      "Long-term keys embedded in source code are the preferred approach.",
+      "A role should grant administrator access whenever only S3 reads are needed."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "EC2 applications can use role-based temporary credentials. Role permissions should be limited to required actions. Access permissions, network controls, and infrastructure responsibilities are separate concerns."
+  },
+  {
+    "section": 2,
+    "topic": "IAM groups",
+    "source": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+    "id": "2-5-a",
+    "type": "single",
+    "prompt": "A company has several IAM users on its support team. All require the same limited permissions, and the administrator wants to manage those permissions together instead of editing each user separately. Which feature best supports this requirement?",
+    "options": [
+      "An IAM user group",
+      "A VPC route table",
+      "An EBS snapshot",
+      "An SSL certificate"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "An IAM group is a collection of IAM users. Policies can give group members shared permissions."
+  },
+  {
+    "section": 2,
+    "topic": "IAM groups",
+    "source": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+    "id": "2-5-b",
+    "type": "multi",
+    "prompt": "A company has several IAM users on its support team. All require the same limited permissions, and the administrator wants to manage those permissions together instead of editing each user separately. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "An IAM group is a collection of IAM users.",
+      "An IAM group is an identity that an EC2 app assumes for temporary credentials.",
+      "Policies can give group members shared permissions.",
+      "An IAM group can be assumed by an EC2 app to receive temporary credentials.",
+      "IAM groups contain EC2 instances rather than IAM users."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "An IAM group is a collection of IAM users. Policies can give group members shared permissions. Access permissions, network controls, and infrastructure responsibilities are separate concerns."
+  },
+  {
+    "section": 2,
+    "topic": "Least privilege",
+    "source": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+    "id": "2-6-a",
+    "type": "single",
+    "prompt": "An employee only needs to read files in the reports area of one S3 bucket. The employee should not modify data or access other buckets. Which approach best follows least privilege?",
+    "options": [
+      "Allow required read actions on those reports",
+      "Grant AdministratorAccess",
+      "Allow every S3 action",
+      "Share root credentials"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Least privilege grants only required access. Resource and action restrictions can narrow permissions."
+  },
+  {
+    "section": 2,
+    "topic": "Least privilege",
+    "source": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+    "id": "2-6-b",
+    "type": "multi",
+    "prompt": "An employee only needs to read files in the reports area of one S3 bucket. The employee should not modify data or access other buckets. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "Least privilege grants only required access.",
+      "Least privilege means granting administrator access to all employees.",
+      "Resource and action restrictions can narrow permissions.",
+      "Every S3 action should be allowed to simplify read-only access.",
+      "One shared root identity is the preferred method for report readers."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Least privilege grants only required access. Resource and action restrictions can narrow permissions. Access permissions, network controls, and infrastructure responsibilities are separate concerns."
+  },
+  {
+    "section": 2,
+    "topic": "SCP limits",
+    "source": "https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html",
+    "id": "2-7-a",
+    "type": "single",
+    "prompt": "A developer works in an AWS Organizations member account. The applicable SCP permits S3 actions, but the developer's IAM policies grant only EC2 access and no other policy grants S3 access. What happens when the developer requests S3 access?",
+    "options": [
+      "The SCP alone does not grant S3 access",
+      "SCP grants S3 automatically",
+      "EC2 access includes S3",
+      "SCPs never affect permissions"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "SCPs set limits on permissions in affected member accounts. IAM permissions must still grant the needed access."
+  },
+  {
+    "section": 2,
+    "topic": "SCP limits",
+    "source": "https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html",
+    "id": "2-7-b",
+    "type": "multi",
+    "prompt": "A developer works in an AWS Organizations member account. The applicable SCP permits S3 actions, but the developer's IAM policies grant only EC2 access and no other policy grants S3 access. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "SCPs set limits on permissions in affected member accounts.",
+      "An SCP allow automatically grants access to every identity.",
+      "IAM permissions must still grant the needed access.",
+      "An SCP allow substitutes for a policy granting access.",
+      "An SCP is attached directly to an EC2 security group."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "SCPs set limits on permissions in affected member accounts. IAM permissions must still grant the needed access. Access permissions, network controls, and infrastructure responsibilities are separate concerns."
+  },
+  {
+    "section": 2,
+    "topic": "Explicit deny",
+    "source": "https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html",
+    "id": "2-8-a",
+    "type": "single",
+    "prompt": "A developer's IAM policy allows an operation, but an applicable SCP explicitly denies that operation in the member account. The developer also has administrator permissions. Which policy decision determines the result?",
+    "options": [
+      "The explicit deny",
+      "The newest policy",
+      "The IAM allow",
+      "MFA authentication"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "An applicable explicit deny overrides an allow. Administrator permissions do not bypass an applicable SCP deny."
+  },
+  {
+    "section": 2,
+    "topic": "Explicit deny",
+    "source": "https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html",
+    "id": "2-8-b",
+    "type": "multi",
+    "prompt": "A developer's IAM policy allows an operation, but an applicable SCP explicitly denies that operation in the member account. The developer also has administrator permissions. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "An applicable explicit deny overrides an allow.",
+      "MFA makes applicable explicit denies irrelevant.",
+      "Administrator permissions do not bypass an applicable SCP deny.",
+      "The most recently created policy always overrides a deny.",
+      "AdministratorAccess bypasses explicit SCP denials."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "An applicable explicit deny overrides an allow. Administrator permissions do not bypass an applicable SCP deny. Access permissions, network controls, and infrastructure responsibilities are separate concerns."
+  },
+  {
+    "section": 2,
+    "topic": "Policy fields",
+    "source": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-policy-language-overview.html",
+    "id": "2-9-a",
+    "type": "single",
+    "prompt": "An administrator is reviewing a JSON policy that includes s3:GetObject. She needs to identify the field that specifies which AWS API operations are permitted or denied. Which field should she inspect?",
+    "options": [
+      "Action",
+      "Resource",
+      "Effect",
+      "Version"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Action identifies the permitted or denied operations. Resource identifies what the statement applies to."
+  },
+  {
+    "section": 2,
+    "topic": "Policy fields",
+    "source": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-policy-language-overview.html",
+    "id": "2-9-b",
+    "type": "multi",
+    "prompt": "An administrator is reviewing a JSON policy that includes s3:GetObject. She needs to identify the field that specifies which AWS API operations are permitted or denied. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "Action identifies the permitted or denied operations.",
+      "The Action field identifies the policy's creation timestamp.",
+      "Resource identifies what the statement applies to.",
+      "Effect identifies which person receives the permission.",
+      "Resource determines whether credentials expire."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Action identifies the permitted or denied operations. Resource identifies what the statement applies to. Access permissions, network controls, and infrastructure responsibilities are separate concerns."
+  },
+  {
+    "section": 2,
+    "topic": "Policy types",
+    "source": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-policy-language-overview.html",
+    "id": "2-10-a",
+    "type": "single",
+    "prompt": "An administrator attaches a policy directly to an S3 bucket. The policy names an employee in Principal and describes the access that employee can receive. What type of policy is this?",
+    "options": [
+      "Resource-based policy",
+      "Identity-based policy",
+      "SCP",
+      "Security group"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Bucket policies are resource-based. Permissions policies attached to IAM roles are identity-based."
+  },
+  {
+    "section": 2,
+    "topic": "Policy types",
+    "source": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-policy-language-overview.html",
+    "id": "2-10-b",
+    "type": "multi",
+    "prompt": "An administrator attaches a policy directly to an S3 bucket. The policy names an employee in Principal and describes the access that employee can receive. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "Bucket policies are resource-based.",
+      "A bucket policy is identity-based because it mentions a user.",
+      "Permissions policies attached to IAM roles are identity-based.",
+      "A policy attached to a bucket is an IAM identity-based policy.",
+      "Naming a user in Principal makes the bucket policy an SCP."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Bucket policies are resource-based. Permissions policies attached to IAM roles are identity-based. Access permissions, network controls, and infrastructure responsibilities are separate concerns."
+  },
+  {
+    "section": 2,
+    "topic": "List versus read",
+    "source": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-policy-language-overview.html",
+    "id": "2-11-a",
+    "type": "single",
+    "prompt": "An employee can view the names of objects in a bucket but receives AccessDenied when opening them. The only relevant permission is s3:ListBucket. What does that permission allow?",
+    "options": [
+      "Listing object names in the bucket",
+      "Reading all object contents",
+      "Uploading objects",
+      "Deleting the bucket"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "ListBucket and GetObject are distinct permissions. GetObject is used to retrieve object contents."
+  },
+  {
+    "section": 2,
+    "topic": "List versus read",
+    "source": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-policy-language-overview.html",
+    "id": "2-11-b",
+    "type": "tf",
+    "prompt": "An employee can view the names of objects in a bucket but receives AccessDenied when opening them. The only relevant permission is s3:ListBucket. True or false: ListBucket and GetObject are distinct permissions.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "ListBucket and GetObject are distinct permissions. GetObject is used to retrieve object contents."
+  },
+  {
+    "section": 2,
+    "topic": "Object scope",
+    "source": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-policy-language-overview.html",
+    "id": "2-12-a",
+    "type": "single",
+    "prompt": "An employee receives s3:GetObject permission on arn:aws:s3:::company-bucket/reports/*. No other statement grants access. Which activity can this statement authorize?",
+    "options": [
+      "Reading objects under reports/",
+      "Deleting all buckets",
+      "Writing every object",
+      "Reading all buckets"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "An object ARN can restrict access to a key prefix. GetObject does not itself grant PutObject."
+  },
+  {
+    "section": 2,
+    "topic": "Object scope",
+    "source": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-policy-language-overview.html",
+    "id": "2-12-b",
+    "type": "tf",
+    "prompt": "An employee receives s3:GetObject permission on arn:aws:s3:::company-bucket/reports/*. No other statement grants access. True or false: GetObject on one prefix grants write access to every bucket.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "An object ARN can restrict access to a key prefix. GetObject does not itself grant PutObject."
+  },
+  {
+    "section": 2,
+    "topic": "Root protection",
+    "source": "https://docs.aws.amazon.com/IAM/latest/UserGuide/root-user-best-practices.html",
+    "id": "2-13-a",
+    "type": "single",
+    "prompt": "A new AWS account owner wants to secure the root identity before developers begin using the account. Applications do not require root credentials. Which approach best follows AWS root-user security practices?",
+    "options": [
+      "Enable MFA and avoid root access keys",
+      "Share the password",
+      "Use root for every daily task",
+      "Embed root keys in code"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Root credentials should be protected with MFA. Avoid root access keys and routine root use."
+  },
+  {
+    "section": 2,
+    "topic": "Root protection",
+    "source": "https://docs.aws.amazon.com/IAM/latest/UserGuide/root-user-best-practices.html",
+    "id": "2-13-b",
+    "type": "tf",
+    "prompt": "A new AWS account owner wants to secure the root identity before developers begin using the account. Applications do not require root credentials. True or false: Root credentials should be protected with MFA.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Root credentials should be protected with MFA. Avoid root access keys and routine root use."
+  },
+  {
+    "section": 2,
+    "topic": "At rest",
+    "source": "https://aws.amazon.com/compare/kms-and-secrets-manager/",
+    "id": "2-14-a",
+    "type": "single",
+    "prompt": "A healthcare company encrypts patient records stored on EBS volumes and in database backups. The records are not being transmitted between systems. Which type of protection is illustrated?",
+    "options": [
+      "Encryption at rest",
+      "Encryption in transit",
+      "DDoS mitigation",
+      "A permission ceiling"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "At-rest encryption protects stored data. Stored databases and backups can use at-rest encryption."
+  },
+  {
+    "section": 2,
+    "topic": "At rest",
+    "source": "https://aws.amazon.com/compare/kms-and-secrets-manager/",
+    "id": "2-14-b",
+    "type": "tf",
+    "prompt": "A healthcare company encrypts patient records stored on EBS volumes and in database backups. The records are not being transmitted between systems. True or false: At-rest encryption refers only to data moving over HTTPS.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "At-rest encryption protects stored data. Stored databases and backups can use at-rest encryption."
+  },
+  {
+    "section": 2,
+    "topic": "In transit",
+    "source": "https://docs.aws.amazon.com/acm/latest/userguide/acm-concepts.html",
+    "id": "2-15-a",
+    "type": "single",
+    "prompt": "Customers submit sensitive information from a browser to a company's web server. The company requires HTTPS to protect the information as it crosses the network. Which type of protection is illustrated?",
+    "options": [
+      "Encryption in transit",
+      "Encryption at rest",
+      "An SCP",
+      "Cost allocation"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "TLS protects network communication. HTTPS uses TLS for secure communication."
+  },
+  {
+    "section": 2,
+    "topic": "In transit",
+    "source": "https://docs.aws.amazon.com/acm/latest/userguide/acm-concepts.html",
+    "id": "2-15-b",
+    "type": "tf",
+    "prompt": "Customers submit sensitive information from a browser to a company's web server. The company requires HTTPS to protect the information as it crosses the network. True or false: TLS protects network communication.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "TLS protects network communication. HTTPS uses TLS for secure communication."
+  },
+  {
+    "section": 2,
+    "topic": "KMS",
+    "source": "https://aws.amazon.com/compare/kms-and-secrets-manager/",
+    "id": "2-16-a",
+    "type": "single",
+    "prompt": "A company encrypts stored application data and needs centralized control over the cryptographic keys used for encryption. It does not need a password store or a vulnerability scanner. Which AWS service best fits?",
+    "options": [
+      "AWS KMS",
+      "Amazon Macie",
+      "AWS Artifact",
+      "Amazon Inspector"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "KMS manages cryptographic keys. KMS can support encryption and digital signing."
+  },
+  {
+    "section": 2,
+    "topic": "KMS",
+    "source": "https://aws.amazon.com/compare/kms-and-secrets-manager/",
+    "id": "2-16-b",
+    "type": "tf",
+    "prompt": "A company encrypts stored application data and needs centralized control over the cryptographic keys used for encryption. It does not need a password store or a vulnerability scanner. True or false: KMS primarily discovers PII in S3 objects.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "KMS manages cryptographic keys. KMS can support encryption and digital signing."
+  },
+  {
+    "section": 2,
+    "topic": "Secrets Manager",
+    "source": "https://docs.aws.amazon.com/secretsmanager/latest/userguide/best-practices.html",
+    "id": "2-17-a",
+    "type": "single",
+    "prompt": "An application connects to a database using a password. The team wants to retrieve the password securely and rotate it without embedding it in application code. Which AWS service best fits?",
+    "options": [
+      "AWS Secrets Manager",
+      "AWS Certificate Manager",
+      "AWS Shield",
+      "Amazon Macie"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Secrets Manager stores application secrets. Secrets Manager supports credential rotation."
+  },
+  {
+    "section": 2,
+    "topic": "Secrets Manager",
+    "source": "https://docs.aws.amazon.com/secretsmanager/latest/userguide/best-practices.html",
+    "id": "2-17-b",
+    "type": "tf",
+    "prompt": "An application connects to a database using a password. The team wants to retrieve the password securely and rotate it without embedding it in application code. True or false: Secrets Manager stores application secrets.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Secrets Manager stores application secrets. Secrets Manager supports credential rotation."
+  },
+  {
+    "section": 2,
+    "topic": "ACM",
+    "source": "https://docs.aws.amazon.com/acm/latest/userguide/",
+    "id": "2-18-a",
+    "type": "single",
+    "prompt": "A company is launching an HTTPS website and needs to provision and manage its SSL/TLS certificates. It wants a service designed for certificate lifecycle management. Which AWS service best fits?",
+    "options": [
+      "AWS Certificate Manager",
+      "Amazon Inspector",
+      "AWS Organizations",
+      "Amazon Macie"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "ACM manages SSL/TLS certificates. Certificates support authenticated secure connections."
+  },
+  {
+    "section": 2,
+    "topic": "ACM",
+    "source": "https://docs.aws.amazon.com/acm/latest/userguide/",
+    "id": "2-18-b",
+    "type": "tf",
+    "prompt": "A company is launching an HTTPS website and needs to provision and manage its SSL/TLS certificates. It wants a service designed for certificate lifecycle management. True or false: ACM is primarily a database password rotation service.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "ACM manages SSL/TLS certificates. Certificates support authenticated secure connections."
+  },
+  {
+    "section": 2,
+    "topic": "Public and private keys",
+    "source": "https://docs.aws.amazon.com/acm/latest/userguide/acm-concepts.html",
+    "id": "2-19-a",
+    "type": "single",
+    "prompt": "A browser receives a website's SSL/TLS certificate while establishing a secure connection. The server must retain its private key rather than disclose it to clients. Which key is included in the certificate?",
+    "options": [
+      "The public key",
+      "The private key",
+      "The root access key",
+      "The database password"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Certificates bind identities to public keys. Private keys must remain secret."
+  },
+  {
+    "section": 2,
+    "topic": "Public and private keys",
+    "source": "https://docs.aws.amazon.com/acm/latest/userguide/acm-concepts.html",
+    "id": "2-19-b",
+    "type": "tf",
+    "prompt": "A browser receives a website's SSL/TLS certificate while establishing a secure connection. The server must retain its private key rather than disclose it to clients. True or false: Certificates bind identities to public keys.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Certificates bind identities to public keys. Private keys must remain secret."
+  },
+  {
+    "section": 2,
+    "topic": "Symmetric encryption",
+    "source": "https://docs.aws.amazon.com/acm/latest/userguide/acm-concepts.html",
+    "id": "2-20-a",
+    "type": "single",
+    "prompt": "Two internal systems exchange encrypted messages. They use the same shared secret value to encrypt the messages and decrypt them afterward. Which type of encryption is being used?",
+    "options": [
+      "Symmetric",
+      "Asymmetric",
+      "Identity-based",
+      "Stateless"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Symmetric encryption uses one shared secret key. Asymmetric cryptography uses a public/private key pair."
+  },
+  {
+    "section": 2,
+    "topic": "Symmetric encryption",
+    "source": "https://docs.aws.amazon.com/acm/latest/userguide/acm-concepts.html",
+    "id": "2-20-b",
+    "type": "tf",
+    "prompt": "Two internal systems exchange encrypted messages. They use the same shared secret value to encrypt the messages and decrypt them afterward. True or false: Symmetric encryption requires a public/private key pair.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Symmetric encryption uses one shared secret key. Asymmetric cryptography uses a public/private key pair."
+  },
+  {
+    "section": 2,
+    "topic": "Macie",
+    "source": "https://docs.aws.amazon.com/macie/latest/user/data-classification.html",
+    "id": "2-21-a",
+    "type": "single",
+    "prompt": "A security team suspects that employees have uploaded files containing personal information to S3. It needs to discover sensitive data in those objects. Which AWS service best supports this requirement?",
+    "options": [
+      "Amazon Macie",
+      "AWS Shield",
+      "Amazon Inspector",
+      "AWS Certificate Manager"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Macie discovers sensitive data in S3. Sensitive data discovery helps identify data-security risks."
+  },
+  {
+    "section": 2,
+    "topic": "Macie",
+    "source": "https://docs.aws.amazon.com/macie/latest/user/data-classification.html",
+    "id": "2-21-b",
+    "type": "tf",
+    "prompt": "A security team suspects that employees have uploaded files containing personal information to S3. It needs to discover sensitive data in those objects. True or false: Macie discovers sensitive data in S3.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Macie discovers sensitive data in S3. Sensitive data discovery helps identify data-security risks."
+  },
+  {
+    "section": 2,
+    "topic": "Inspector",
+    "source": "https://docs.aws.amazon.com/inspector/latest/user/what-is-inspector.html",
+    "id": "2-22-a",
+    "type": "single",
+    "prompt": "A company operates EC2 instances, stores container images in ECR, and uses Lambda functions. Its security team wants to identify vulnerable software packages in these workloads. Which service best fits?",
+    "options": [
+      "Amazon Inspector",
+      "AWS Artifact",
+      "AWS KMS",
+      "Amazon Macie"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Inspector scans workloads for software vulnerabilities. Inspector can identify unintended network exposure."
+  },
+  {
+    "section": 2,
+    "topic": "Inspector",
+    "source": "https://docs.aws.amazon.com/inspector/latest/user/what-is-inspector.html",
+    "id": "2-22-b",
+    "type": "tf",
+    "prompt": "A company operates EC2 instances, stores container images in ECR, and uses Lambda functions. Its security team wants to identify vulnerable software packages in these workloads. True or false: Inspector primarily issues website certificates.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Inspector scans workloads for software vulnerabilities. Inspector can identify unintended network exposure."
+  },
+  {
+    "section": 2,
+    "topic": "GuardDuty",
+    "source": "https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_findings.html",
+    "id": "2-23-a",
+    "type": "single",
+    "prompt": "A security team wants to detect unusual AWS account activity that could indicate compromised credentials or malicious behavior. It needs analysis of AWS data sources and logs rather than a password vault. Which service best fits?",
+    "options": [
+      "Amazon GuardDuty",
+      "AWS Pricing Calculator",
+      "AWS Certificate Manager",
+      "AWS Secrets Manager"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "GuardDuty generates findings for suspicious activity. Threat detection differs from granting IAM permissions."
+  },
+  {
+    "section": 2,
+    "topic": "GuardDuty",
+    "source": "https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_findings.html",
+    "id": "2-23-b",
+    "type": "tf",
+    "prompt": "A security team wants to detect unusual AWS account activity that could indicate compromised credentials or malicious behavior. It needs analysis of AWS data sources and logs rather than a password vault. True or false: GuardDuty generates findings for suspicious activity.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "GuardDuty generates findings for suspicious activity. Threat detection differs from granting IAM permissions."
+  },
+  {
+    "section": 2,
+    "topic": "Shield and WAF",
+    "source": "https://docs.aws.amazon.com/waf/latest/developerguide/ddos-standard-summary.html",
+    "id": "2-24-a",
+    "type": "single",
+    "prompt": "An online retailer experiences a flood of traffic intended to overwhelm its public website. The team needs protection specifically designed for distributed denial-of-service attacks. Which AWS service best fits?",
+    "options": [
+      "AWS Shield",
+      "AWS Artifact",
+      "AWS Secrets Manager",
+      "Amazon Macie"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Shield provides DDoS detection and mitigation. AWS WAF filters web requests against rules."
+  },
+  {
+    "section": 2,
+    "topic": "Shield and WAF",
+    "source": "https://docs.aws.amazon.com/waf/latest/developerguide/ddos-standard-summary.html",
+    "id": "2-24-b",
+    "type": "tf",
+    "prompt": "An online retailer experiences a flood of traffic intended to overwhelm its public website. The team needs protection specifically designed for distributed denial-of-service attacks. True or false: AWS Shield is primarily a password storage service.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Shield provides DDoS detection and mitigation. AWS WAF filters web requests against rules."
+  },
+  {
+    "section": 2,
+    "topic": "Compliance evidence",
+    "source": "https://docs.aws.amazon.com/artifact/latest/ug/what-is-aws-artifact.html",
+    "id": "2-25-a",
+    "type": "single",
+    "prompt": "An external auditor asks a company for AWS compliance reports and agreements. The company wants to obtain the provider's available compliance documentation on demand. Which AWS service best supports this request?",
+    "options": [
+      "AWS Artifact",
+      "Amazon CloudWatch",
+      "AWS KMS",
+      "AWS Budgets"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Artifact provides AWS compliance reports and agreements. AWS Config tracks resource configurations and rule evaluations."
+  },
+  {
+    "section": 2,
+    "topic": "Compliance evidence",
+    "source": "https://docs.aws.amazon.com/artifact/latest/ug/what-is-aws-artifact.html",
+    "id": "2-25-b",
+    "type": "tf",
+    "prompt": "An external auditor asks a company for AWS compliance reports and agreements. The company wants to obtain the provider's available compliance documentation on demand. True or false: Artifact provides AWS compliance reports and agreements.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Artifact provides AWS compliance reports and agreements. AWS Config tracks resource configurations and rule evaluations."
+  },
+  {
+    "section": 3,
+    "topic": "EC2",
+    "source": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html",
+    "id": "3-1-a",
+    "type": "single",
+    "prompt": "A company needs virtual servers on which its administrators can choose the operating system and install application software. It wants resizable compute rather than object storage or DNS. Which AWS service best fits?",
+    "options": [
+      "Amazon EC2",
+      "Amazon S3",
+      "Amazon Route 53",
+      "Amazon DynamoDB"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "EC2 supplies virtual compute capacity. Customers can choose instance types for workload needs."
+  },
+  {
+    "section": 3,
+    "topic": "EC2",
+    "source": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html",
+    "id": "3-1-b",
+    "type": "multi",
+    "prompt": "A company needs virtual servers on which its administrators can choose the operating system and install application software. It wants resizable compute rather than object storage or DNS. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "EC2 supplies virtual compute capacity.",
+      "EC2 is an object storage bucket service.",
+      "Customers can choose instance types for workload needs.",
+      "EC2 stores files as objects inside buckets.",
+      "EC2 removes all customer responsibility for the guest operating system."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "EC2 supplies virtual compute capacity. Customers can choose instance types for workload needs. Select the service based on the required interface and workload behavior."
+  },
+  {
+    "section": 3,
+    "topic": "AMI",
+    "source": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html",
+    "id": "3-2-a",
+    "type": "single",
+    "prompt": "A company repeatedly launches EC2 instances with the same operating system and preinstalled software. It wants a reusable template to make those launches consistent. Which AWS resource best fits?",
+    "options": [
+      "An AMI",
+      "A route table",
+      "An SCP",
+      "A cost allocation tag"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "An AMI is a reusable EC2 launch template. AMIs include operating system and other launch information."
+  },
+  {
+    "section": 3,
+    "topic": "AMI",
+    "source": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html",
+    "id": "3-2-b",
+    "type": "multi",
+    "prompt": "A company repeatedly launches EC2 instances with the same operating system and preinstalled software. It wants a reusable template to make those launches consistent. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "An AMI is a reusable EC2 launch template.",
+      "An AMI is a DNS registration record.",
+      "AMIs include operating system and other launch information.",
+      "An AMI is a set of subnet routing entries.",
+      "An AMI grants IAM users administrator privileges."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "An AMI is a reusable EC2 launch template. AMIs include operating system and other launch information. Select the service based on the required interface and workload behavior."
+  },
+  {
+    "section": 3,
+    "topic": "Lambda",
+    "source": "https://docs.aws.amazon.com/lambda/latest/dg/concepts-basics.html",
+    "id": "3-3-a",
+    "type": "single",
+    "prompt": "A photography application needs to run image-processing code whenever a file is uploaded to S3. The team does not want to provision or maintain servers for this event-driven code. Which service best fits?",
+    "options": [
+      "AWS Lambda",
+      "Amazon EBS",
+      "Amazon RDS",
+      "AWS Direct Connect"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Lambda runs code in response to events. S3 uploads can trigger Lambda functions."
+  },
+  {
+    "section": 3,
+    "topic": "Lambda",
+    "source": "https://docs.aws.amazon.com/lambda/latest/dg/concepts-basics.html",
+    "id": "3-3-b",
+    "type": "multi",
+    "prompt": "A photography application needs to run image-processing code whenever a file is uploaded to S3. The team does not want to provision or maintain servers for this event-driven code. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "Lambda runs code in response to events.",
+      "Lambda requires every user to provision dedicated EC2 hosts.",
+      "S3 uploads can trigger Lambda functions.",
+      "Lambda requires customers to patch underlying EC2 hosts.",
+      "An S3 upload must be processed by a relational database."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Lambda runs code in response to events. S3 uploads can trigger Lambda functions. Select the service based on the required interface and workload behavior."
+  },
+  {
+    "section": 3,
+    "topic": "Containers",
+    "source": "https://aws.amazon.com/compare/the-difference-between-containers-and-virtual-machines/",
+    "id": "3-4-a",
+    "type": "single",
+    "prompt": "A team is comparing containers and virtual machines before packaging its application. It wants to understand the difference in operating-system architecture and overhead. Which comparison is correct?",
+    "options": [
+      "Containers share a host kernel; VMs have guest operating systems",
+      "Every container needs a full guest OS",
+      "VMs cannot run operating systems",
+      "Containers are S3 buckets"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Containers package applications and dependencies. Containers share the host operating system kernel."
+  },
+  {
+    "section": 3,
+    "topic": "Containers",
+    "source": "https://aws.amazon.com/compare/the-difference-between-containers-and-virtual-machines/",
+    "id": "3-4-b",
+    "type": "multi",
+    "prompt": "A team is comparing containers and virtual machines before packaging its application. It wants to understand the difference in operating-system architecture and overhead. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "Containers package applications and dependencies.",
+      "Each container necessarily runs its own full guest OS.",
+      "Containers share the host operating system kernel.",
+      "Every container includes a separate full guest operating system.",
+      "Virtual machines share only the host kernel without guest operating systems."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Containers package applications and dependencies. Containers share the host operating system kernel. Select the service based on the required interface and workload behavior."
+  },
+  {
+    "section": 3,
+    "topic": "Fargate",
+    "source": "https://aws.amazon.com/fargate/getting-started/",
+    "id": "3-5-a",
+    "type": "single",
+    "prompt": "A development team has containerized its application and wants to run it without provisioning or patching the underlying EC2 hosts. Which AWS compute option best supports this requirement?",
+    "options": [
+      "AWS Fargate",
+      "Amazon EBS",
+      "Amazon Route 53",
+      "AWS Artifact"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Fargate manages underlying container compute infrastructure. Fargate can run ECS tasks or EKS pods."
+  },
+  {
+    "section": 3,
+    "topic": "Fargate",
+    "source": "https://aws.amazon.com/fargate/getting-started/",
+    "id": "3-5-b",
+    "type": "multi",
+    "prompt": "A development team has containerized its application and wants to run it without provisioning or patching the underlying EC2 hosts. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "Fargate manages underlying container compute infrastructure.",
+      "Fargate is primarily a block storage volume.",
+      "Fargate can run ECS tasks or EKS pods.",
+      "Fargate is primarily a persistent block-storage service.",
+      "Customers must provision the underlying EC2 host for every Fargate task."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Fargate manages underlying container compute infrastructure. Fargate can run ECS tasks or EKS pods. Select the service based on the required interface and workload behavior."
+  },
+  {
+    "section": 3,
+    "topic": "EKS",
+    "source": "https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html",
+    "id": "3-6-a",
+    "type": "single",
+    "prompt": "A company already uses Kubernetes and wants a managed AWS service for orchestrating its containerized workloads. It does not need a block volume or a database service. Which AWS service best fits?",
+    "options": [
+      "Amazon EKS",
+      "Amazon EBS",
+      "Amazon RDS",
+      "AWS CloudTrail"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "EKS provides managed Kubernetes. Kubernetes orchestrates containerized applications."
+  },
+  {
+    "section": 3,
+    "topic": "EKS",
+    "source": "https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html",
+    "id": "3-6-b",
+    "type": "multi",
+    "prompt": "A company already uses Kubernetes and wants a managed AWS service for orchestrating its containerized workloads. It does not need a block volume or a database service. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "EKS provides managed Kubernetes.",
+      "EKS is a DNS domain registrar.",
+      "Kubernetes orchestrates containerized applications.",
+      "EKS is a key-value database service.",
+      "Kubernetes orchestration is the same as DNS resolution."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "EKS provides managed Kubernetes. Kubernetes orchestrates containerized applications. Select the service based on the required interface and workload behavior."
+  },
+  {
+    "section": 3,
+    "topic": "Regional structure",
+    "source": "https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html",
+    "id": "3-7-a",
+    "type": "single",
+    "prompt": "An architect is designing a VPC with resources in different Availability Zones. She needs to identify which resource must be placed in exactly one AZ. Which resource has that scope?",
+    "options": [
+      "A subnet",
+      "An IAM user",
+      "A VPC spanning AZs",
+      "A Route 53 hosted zone"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "A subnet is located in one AZ. A Region contains multiple Availability Zones."
+  },
+  {
+    "section": 3,
+    "topic": "Regional structure",
+    "source": "https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html",
+    "id": "3-7-b",
+    "type": "multi",
+    "prompt": "An architect is designing a VPC with resources in different Availability Zones. She needs to identify which resource must be placed in exactly one AZ. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "A subnet is located in one AZ.",
+      "A subnet automatically spans every AZ in its Region.",
+      "A Region contains multiple Availability Zones.",
+      "Each subnet spans all AZs in a Region.",
+      "An AZ belongs to several Regions simultaneously."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "A subnet is located in one AZ. A Region contains multiple Availability Zones. Select the service based on the required interface and workload behavior."
+  },
+  {
+    "section": 3,
+    "topic": "VPC",
+    "source": "https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html",
+    "id": "3-8-a",
+    "type": "single",
+    "prompt": "A company wants control over its private IP address ranges, subnets, routing, and networking boundaries in AWS. Which service provides the logically isolated virtual network it needs?",
+    "options": [
+      "Amazon VPC",
+      "Amazon CloudFront",
+      "Amazon Redshift",
+      "AWS Artifact"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "A VPC belongs to one AWS Region. A VPC can contain subnets in multiple AZs."
+  },
+  {
+    "section": 3,
+    "topic": "VPC",
+    "source": "https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html",
+    "id": "3-8-b",
+    "type": "multi",
+    "prompt": "A company wants control over its private IP address ranges, subnets, routing, and networking boundaries in AWS. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "A VPC belongs to one AWS Region.",
+      "A VPC necessarily spans multiple AWS Regions.",
+      "A VPC can contain subnets in multiple AZs.",
+      "A VPC necessarily spans multiple AWS Regions.",
+      "Every Availability Zone must have a separate VPC."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "A VPC belongs to one AWS Region. A VPC can contain subnets in multiple AZs. Select the service based on the required interface and workload behavior."
+  },
+  {
+    "section": 3,
+    "topic": "NAT",
+    "source": "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html",
+    "id": "3-9-a",
+    "type": "single",
+    "prompt": "Instances in a private subnet must download updates from the IPv4 internet. Internet hosts must not be able to initiate connections to those instances through the outbound-access solution. Which design best fits?",
+    "options": [
+      "A public NAT gateway with appropriate routes",
+      "An inbound allow-all rule",
+      "A bucket policy",
+      "A read replica"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "A public NAT gateway supports outbound internet access. The public NAT gateway sits in a public subnet for internet egress."
+  },
+  {
+    "section": 3,
+    "topic": "NAT",
+    "source": "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html",
+    "id": "3-9-b",
+    "type": "multi",
+    "prompt": "Instances in a private subnet must download updates from the IPv4 internet. Internet hosts must not be able to initiate connections to those instances through the outbound-access solution. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "A public NAT gateway supports outbound internet access.",
+      "A NAT gateway lets internet hosts freely initiate connections to private instances.",
+      "The public NAT gateway sits in a public subnet for internet egress.",
+      "A public NAT gateway grants unsolicited inbound access to private instances.",
+      "An IAM administrator policy replaces the required network routes."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "A public NAT gateway supports outbound internet access. The public NAT gateway sits in a public subnet for internet egress. Select the service based on the required interface and workload behavior."
+  },
+  {
+    "section": 3,
+    "topic": "Route tables",
+    "source": "https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Route_Tables.html",
+    "id": "3-10-a",
+    "type": "single",
+    "prompt": "A subnet contains instances that send traffic to internal and external destinations. An engineer needs to specify where packets should go next rather than grant API permissions. Which VPC feature should he configure?",
+    "options": [
+      "A route table",
+      "An IAM group",
+      "An AMI",
+      "A database password"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Route tables direct traffic to targets. Routes differ from firewall permissions."
+  },
+  {
+    "section": 3,
+    "topic": "Route tables",
+    "source": "https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Route_Tables.html",
+    "id": "3-10-b",
+    "type": "multi",
+    "prompt": "A subnet contains instances that send traffic to internal and external destinations. An engineer needs to specify where packets should go next rather than grant API permissions. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "Route tables direct traffic to targets.",
+      "A route table grants an application S3 API permissions.",
+      "Routes differ from firewall permissions.",
+      "Route tables grant AWS API permissions.",
+      "A route table is a stateful allow-only firewall."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Route tables direct traffic to targets. Routes differ from firewall permissions. Select the service based on the required interface and workload behavior."
+  },
+  {
+    "section": 3,
+    "topic": "Direct Connect",
+    "source": "https://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html",
+    "id": "3-11-a",
+    "type": "single",
+    "prompt": "A company needs dedicated network connectivity between its internal network and AWS. More consistent network performance is a priority compared with an internet-based path. Which service best fits?",
+    "options": [
+      "AWS Direct Connect",
+      "Amazon CloudFront",
+      "Amazon Macie",
+      "AWS Lambda"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Direct Connect provides dedicated network connectivity. It can offer more consistent performance than internet paths."
+  },
+  {
+    "section": 3,
+    "topic": "Direct Connect",
+    "source": "https://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html",
+    "id": "3-11-b",
+    "type": "tf",
+    "prompt": "A company needs dedicated network connectivity between its internal network and AWS. More consistent network performance is a priority compared with an internet-based path. True or false: Direct Connect provides dedicated network connectivity.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Direct Connect provides dedicated network connectivity. It can offer more consistent performance than internet paths."
+  },
+  {
+    "section": 3,
+    "topic": "VPN",
+    "source": "https://docs.aws.amazon.com/vpn/latest/s2svpn/VPC_VPN.html",
+    "id": "3-12-a",
+    "type": "single",
+    "prompt": "A company wants to connect its on-premises network with AWS using IPsec-encrypted tunnels over its existing internet connection. Which connectivity option best meets this requirement?",
+    "options": [
+      "AWS Site-to-Site VPN",
+      "Amazon EFS",
+      "Amazon Redshift",
+      "AWS Shield"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Site-to-Site VPN provides IPsec-encrypted tunnels. It can connect an on-premises network with AWS."
+  },
+  {
+    "section": 3,
+    "topic": "VPN",
+    "source": "https://docs.aws.amazon.com/vpn/latest/s2svpn/VPC_VPN.html",
+    "id": "3-12-b",
+    "type": "tf",
+    "prompt": "A company wants to connect its on-premises network with AWS using IPsec-encrypted tunnels over its existing internet connection. True or false: A Site-to-Site VPN is necessarily a dedicated physical circuit.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Site-to-Site VPN provides IPsec-encrypted tunnels. It can connect an on-premises network with AWS."
+  },
+  {
+    "section": 3,
+    "topic": "Route 53",
+    "source": "https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html",
+    "id": "3-13-a",
+    "type": "single",
+    "prompt": "A company registers a domain for its application and needs DNS records that direct users to the application's destination. Which AWS service best supports this requirement?",
+    "options": [
+      "Amazon Route 53",
+      "Amazon EBS",
+      "AWS CloudTrail",
+      "Amazon CloudWatch"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Route 53 provides DNS. DNS associates names with application destinations."
+  },
+  {
+    "section": 3,
+    "topic": "Route 53",
+    "source": "https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html",
+    "id": "3-13-b",
+    "type": "tf",
+    "prompt": "A company registers a domain for its application and needs DNS records that direct users to the application's destination. True or false: Route 53 provides DNS.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Route 53 provides DNS. DNS associates names with application destinations."
+  },
+  {
+    "section": 3,
+    "topic": "CloudFront",
+    "source": "https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html",
+    "id": "3-14-a",
+    "type": "single",
+    "prompt": "A media company serves the same images and videos to customers around the world. It wants to cache content at edge locations near users to reduce delivery latency. Which AWS service best fits?",
+    "options": [
+      "Amazon CloudFront",
+      "AWS Direct Connect",
+      "Amazon RDS",
+      "AWS KMS"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "CloudFront is a content delivery network. Edge caching can reduce delivery latency."
+  },
+  {
+    "section": 3,
+    "topic": "CloudFront",
+    "source": "https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html",
+    "id": "3-14-b",
+    "type": "tf",
+    "prompt": "A media company serves the same images and videos to customers around the world. It wants to cache content at edge locations near users to reduce delivery latency. True or false: CloudFront is primarily a relational database.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "CloudFront is a content delivery network. Edge caching can reduce delivery latency."
+  },
+  {
+    "section": 3,
+    "topic": "EBS",
+    "source": "https://docs.aws.amazon.com/ebs/latest/userguide/what-is-ebs.html",
+    "id": "3-15-a",
+    "type": "single",
+    "prompt": "An EC2 application needs storage that behaves like an attached virtual disk and can persist when the instance stops. The application performs frequent block-level reads and writes. Which service best fits?",
+    "options": [
+      "Amazon EBS",
+      "Amazon Route 53",
+      "AWS Artifact",
+      "Amazon GuardDuty"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "EBS provides persistent block storage. EBS volumes can persist when an instance stops."
+  },
+  {
+    "section": 3,
+    "topic": "EBS",
+    "source": "https://docs.aws.amazon.com/ebs/latest/userguide/what-is-ebs.html",
+    "id": "3-15-b",
+    "type": "tf",
+    "prompt": "An EC2 application needs storage that behaves like an attached virtual disk and can persist when the instance stops. The application performs frequent block-level reads and writes. True or false: EBS provides persistent block storage.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "EBS provides persistent block storage. EBS volumes can persist when an instance stops."
+  },
+  {
+    "section": 3,
+    "topic": "EFS",
+    "source": "https://docs.aws.amazon.com/efs/latest/ug/",
+    "id": "3-16-a",
+    "type": "single",
+    "prompt": "Several Linux EC2 instances need concurrent access to the same managed file system. The team wants file and directory access rather than a separate disk for each instance. Which service best fits?",
+    "options": [
+      "Amazon EFS",
+      "EC2 instance store",
+      "An AMI",
+      "An SCP"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "EFS provides shared file storage. Multiple compute instances can access an EFS file system."
+  },
+  {
+    "section": 3,
+    "topic": "EFS",
+    "source": "https://docs.aws.amazon.com/efs/latest/ug/",
+    "id": "3-16-b",
+    "type": "tf",
+    "prompt": "Several Linux EC2 instances need concurrent access to the same managed file system. The team wants file and directory access rather than a separate disk for each instance. True or false: EFS is primarily a DNS routing service.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "EFS provides shared file storage. Multiple compute instances can access an EFS file system."
+  },
+  {
+    "section": 3,
+    "topic": "S3",
+    "source": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
+    "id": "3-17-a",
+    "type": "single",
+    "prompt": "A company needs to store application files as objects in buckets and retrieve them through APIs or HTTP. It does not need to attach a virtual disk to one server. Which AWS service best fits?",
+    "options": [
+      "Amazon S3",
+      "Amazon EC2",
+      "Amazon EBS",
+      "Amazon RDS"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "S3 stores objects in buckets. S3 object access differs from mounting a traditional block disk."
+  },
+  {
+    "section": 3,
+    "topic": "S3",
+    "source": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
+    "id": "3-17-b",
+    "type": "tf",
+    "prompt": "A company needs to store application files as objects in buckets and retrieve them through APIs or HTTP. It does not need to attach a virtual disk to one server. True or false: S3 stores objects in buckets.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "S3 stores objects in buckets. S3 object access differs from mounting a traditional block disk."
+  },
+  {
+    "section": 3,
+    "topic": "Instance store",
+    "source": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/InstanceStorage.html",
+    "id": "3-18-a",
+    "type": "single",
+    "prompt": "A processing job needs fast temporary scratch storage attached to its EC2 host. Losing the scratch data when the instance stops or terminates is acceptable. Which storage option best fits?",
+    "options": [
+      "EC2 instance store",
+      "An EBS snapshot",
+      "Amazon Route 53",
+      "Amazon RDS"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Instance store is temporary host-attached storage. Data can be lost when an instance stops or terminates."
+  },
+  {
+    "section": 3,
+    "topic": "Instance store",
+    "source": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/InstanceStorage.html",
+    "id": "3-18-b",
+    "type": "tf",
+    "prompt": "A processing job needs fast temporary scratch storage attached to its EC2 host. Losing the scratch data when the instance stops or terminates is acceptable. True or false: Instance store guarantees data persistence after instance termination.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Instance store is temporary host-attached storage. Data can be lost when an instance stops or terminates."
+  },
+  {
+    "section": 3,
+    "topic": "Snapshots",
+    "source": "https://docs.aws.amazon.com/ebs/latest/userguide/ebs-snapshots.html",
+    "id": "3-19-a",
+    "type": "single",
+    "prompt": "A company wants a point-in-time backup of an EBS volume so it can create a replacement volume after data loss. Which feature should the team use?",
+    "options": [
+      "Create an EBS snapshot",
+      "Create an IAM group",
+      "Create a Route 53 zone",
+      "Create an SCP"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "EBS snapshots back up volume data. A snapshot can be used to create a replacement volume."
+  },
+  {
+    "section": 3,
+    "topic": "Snapshots",
+    "source": "https://docs.aws.amazon.com/ebs/latest/userguide/ebs-snapshots.html",
+    "id": "3-19-b",
+    "type": "tf",
+    "prompt": "A company wants a point-in-time backup of an EBS volume so it can create a replacement volume after data loss. True or false: EBS snapshots back up volume data.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "EBS snapshots back up volume data. A snapshot can be used to create a replacement volume."
+  },
+  {
+    "section": 3,
+    "topic": "Lifecycle",
+    "source": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lifecycle-mgmt.html",
+    "id": "3-20-a",
+    "type": "single",
+    "prompt": "A company stores records in S3 and wants them automatically moved to an archival storage class after 180 days. The decision should be based on object age. Which feature best supports this requirement?",
+    "options": [
+      "An S3 Lifecycle transition",
+      "A security group",
+      "A route table",
+      "An IAM group"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Lifecycle rules can transition objects by age. Lifecycle rules can also expire objects."
+  },
+  {
+    "section": 3,
+    "topic": "Lifecycle",
+    "source": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lifecycle-mgmt.html",
+    "id": "3-20-b",
+    "type": "tf",
+    "prompt": "A company stores records in S3 and wants them automatically moved to an archival storage class after 180 days. The decision should be based on object age. True or false: Lifecycle rules decide storage class by reading document meaning.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Lifecycle rules can transition objects by age. Lifecycle rules can also expire objects."
+  },
+  {
+    "section": 3,
+    "topic": "RDS",
+    "source": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/",
+    "id": "3-21-a",
+    "type": "single",
+    "prompt": "An order-processing application needs SQL, transactions, and a relational schema. The team wants AWS to handle common database infrastructure administration tasks. Which managed service best fits?",
+    "options": [
+      "Amazon RDS",
+      "Amazon EFS",
+      "Amazon Redshift for primary OLTP",
+      "Amazon Route 53"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "RDS manages common relational database infrastructure tasks. Customers still manage their data and database access."
+  },
+  {
+    "section": 3,
+    "topic": "RDS",
+    "source": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/",
+    "id": "3-21-b",
+    "type": "tf",
+    "prompt": "An order-processing application needs SQL, transactions, and a relational schema. The team wants AWS to handle common database infrastructure administration tasks. True or false: RDS manages common relational database infrastructure tasks.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "RDS manages common relational database infrastructure tasks. Customers still manage their data and database access."
+  },
+  {
+    "section": 3,
+    "topic": "Multi-AZ",
+    "source": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZSingleStandby.html",
+    "id": "3-22-a",
+    "type": "single",
+    "prompt": "A company runs an RDS DB instance and wants automatic failover if the primary becomes unavailable. It needs a standby in another Availability Zone rather than a reporting server. Which deployment option best fits?",
+    "options": [
+      "Multi-AZ DB instance deployment",
+      "A larger single-AZ disk",
+      "An IAM group",
+      "A DNS registration"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Multi-AZ DB instance deployment supports failover. Its standby is in a different AZ from the primary."
+  },
+  {
+    "section": 3,
+    "topic": "Multi-AZ",
+    "source": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZSingleStandby.html",
+    "id": "3-22-b",
+    "type": "tf",
+    "prompt": "A company runs an RDS DB instance and wants automatic failover if the primary becomes unavailable. It needs a standby in another Availability Zone rather than a reporting server. True or false: A Multi-AZ DB instance standby is primarily a reporting-query server.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Multi-AZ DB instance deployment supports failover. Its standby is in a different AZ from the primary."
+  },
+  {
+    "section": 3,
+    "topic": "Read replicas",
+    "source": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ReadRepl.html",
+    "id": "3-23-a",
+    "type": "single",
+    "prompt": "An RDS database's primary instance is busy serving application transactions. The team wants to offload reporting and other read queries to additional database instances. Which feature best fits?",
+    "options": [
+      "Read replicas",
+      "A NAT gateway",
+      "A subnet route",
+      "An EBS encryption key"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Read replicas can offload read workloads. Read scaling differs from a single-standby Multi-AZ deployment."
+  },
+  {
+    "section": 3,
+    "topic": "Read replicas",
+    "source": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ReadRepl.html",
+    "id": "3-23-b",
+    "type": "tf",
+    "prompt": "An RDS database's primary instance is busy serving application transactions. The team wants to offload reporting and other read queries to additional database instances. True or false: Read replicas can offload read workloads.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Read replicas can offload read workloads. Read scaling differs from a single-standby Multi-AZ deployment."
+  },
+  {
+    "section": 3,
+    "topic": "Database choices",
+    "source": "https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless-v2.how-it-works.html",
+    "id": "3-24-a",
+    "type": "single",
+    "prompt": "A company's relational workload has variable demand and needs MySQL or PostgreSQL compatibility. It wants database compute capacity that adjusts to workload needs. Which database option best fits?",
+    "options": [
+      "Aurora Serverless",
+      "Amazon EFS",
+      "Amazon Route 53",
+      "Amazon Redshift"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Aurora Serverless adjusts database capacity for variable demand. Aurora supports MySQL-compatible and PostgreSQL-compatible editions."
+  },
+  {
+    "section": 3,
+    "topic": "Database choices",
+    "source": "https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless-v2.how-it-works.html",
+    "id": "3-24-b",
+    "type": "tf",
+    "prompt": "A company's relational workload has variable demand and needs MySQL or PostgreSQL compatibility. It wants database compute capacity that adjusts to workload needs. True or false: Aurora Serverless is primarily a NoSQL key-value database.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Aurora Serverless adjusts database capacity for variable demand. Aurora supports MySQL-compatible and PostgreSQL-compatible editions."
+  },
+  {
+    "section": 3,
+    "topic": "Analytics and NoSQL",
+    "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/welcome.html",
+    "id": "3-25-a",
+    "type": "single",
+    "prompt": "A company collects years of sales history and wants complex SQL queries and aggregations for business analytics. It needs a data warehouse rather than its primary transaction-processing database. Which service best fits?",
+    "options": [
+      "Amazon Redshift",
+      "Amazon EBS",
+      "Amazon Route 53",
+      "AWS Shield"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Redshift is designed for data warehouse analytics. DynamoDB is a managed NoSQL key-value and document database."
+  },
+  {
+    "section": 3,
+    "topic": "Analytics and NoSQL",
+    "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/welcome.html",
+    "id": "3-25-b",
+    "type": "tf",
+    "prompt": "A company collects years of sales history and wants complex SQL queries and aggregations for business analytics. It needs a data warehouse rather than its primary transaction-processing database. True or false: Redshift is designed for data warehouse analytics.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Redshift is designed for data warehouse analytics. DynamoDB is a managed NoSQL key-value and document database."
+  },
+  {
+    "section": 4,
+    "topic": "Pay as you go",
+    "source": "https://aws.amazon.com/pricing/",
+    "id": "4-1-a",
+    "type": "single",
+    "prompt": "A startup does not know how much compute its application will use each month. It wants charges to follow resource consumption rather than purchasing servers upfront. Which pricing principle best fits?",
+    "options": [
+      "Pay as you go",
+      "All services are free",
+      "Mandatory three-year contracts",
+      "Buy all future capacity today"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Many AWS services support usage-based pricing. Consumption influences the bill."
+  },
+  {
+    "section": 4,
+    "topic": "Pay as you go",
+    "source": "https://aws.amazon.com/pricing/",
+    "id": "4-1-b",
+    "type": "multi",
+    "prompt": "A startup does not know how much compute its application will use each month. It wants charges to follow resource consumption rather than purchasing servers upfront. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "Many AWS services support usage-based pricing.",
+      "AWS pricing requires every workload to make a three-year commitment.",
+      "Consumption influences the bill.",
+      "Pay-as-you-go requires every customer to sign a three-year commitment.",
+      "Consumption has no effect on usage-based charges."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Many AWS services support usage-based pricing. Consumption influences the bill. Cost-analysis tools, pricing commitments, and governance controls serve different purposes."
+  },
+  {
+    "section": 4,
+    "topic": "Pricing Calculator",
+    "source": "https://aws.amazon.com/aws-cost-management/aws-pricing-calculator/",
+    "id": "4-2-a",
+    "type": "single",
+    "prompt": "A company is planning a new AWS architecture and needs an estimated monthly cost before deploying any resources. Which tool best supports this requirement?",
+    "options": [
+      "AWS Pricing Calculator",
+      "AWS CloudTrail",
+      "AWS Artifact",
+      "Amazon GuardDuty"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Pricing Calculator models estimated workload costs. Estimates depend on configuration and usage assumptions."
+  },
+  {
+    "section": 4,
+    "topic": "Pricing Calculator",
+    "source": "https://aws.amazon.com/aws-cost-management/aws-pricing-calculator/",
+    "id": "4-2-b",
+    "type": "multi",
+    "prompt": "A company is planning a new AWS architecture and needs an estimated monthly cost before deploying any resources. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "Pricing Calculator models estimated workload costs.",
+      "A Pricing Calculator estimate guarantees the exact future invoice.",
+      "Estimates depend on configuration and usage assumptions.",
+      "An estimate guarantees the exact invoice regardless of actual usage.",
+      "Pricing Calculator primarily records API call history."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Pricing Calculator models estimated workload costs. Estimates depend on configuration and usage assumptions. Cost-analysis tools, pricing commitments, and governance controls serve different purposes."
+  },
+  {
+    "section": 4,
+    "topic": "Cost Explorer",
+    "source": "https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html",
+    "id": "4-3-a",
+    "type": "single",
+    "prompt": "A finance team wants to visualize historical AWS spending, compare services, and investigate usage trends. Which AWS tool best fits this analysis?",
+    "options": [
+      "AWS Cost Explorer",
+      "AWS Certificate Manager",
+      "AWS Artifact",
+      "AWS WAF"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Cost Explorer analyzes cost and usage data. It supports exploring spending trends."
+  },
+  {
+    "section": 4,
+    "topic": "Cost Explorer",
+    "source": "https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html",
+    "id": "4-3-b",
+    "type": "multi",
+    "prompt": "A finance team wants to visualize historical AWS spending, compare services, and investigate usage trends. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "Cost Explorer analyzes cost and usage data.",
+      "Cost Explorer primarily scans workloads for vulnerabilities.",
+      "It supports exploring spending trends.",
+      "Cost Explorer is primarily a cryptographic-key manager.",
+      "Historical spending analysis is the same as an HTTP firewall rule."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Cost Explorer analyzes cost and usage data. It supports exploring spending trends. Cost-analysis tools, pricing commitments, and governance controls serve different purposes."
+  },
+  {
+    "section": 4,
+    "topic": "Budgets",
+    "source": "https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html",
+    "id": "4-4-a",
+    "type": "single",
+    "prompt": "A project owner wants a notification when actual spending exceeds a chosen amount or forecast spending is expected to exceed it. Which AWS tool best fits?",
+    "options": [
+      "AWS Budgets",
+      "Amazon Macie",
+      "Amazon Route 53",
+      "AWS Artifact"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Budgets can notify users about threshold crossings. Budget thresholds can use forecast spending."
+  },
+  {
+    "section": 4,
+    "topic": "Budgets",
+    "source": "https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html",
+    "id": "4-4-b",
+    "type": "multi",
+    "prompt": "A project owner wants a notification when actual spending exceeds a chosen amount or forecast spending is expected to exceed it. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "Budgets can notify users about threshold crossings.",
+      "A budget alert automatically terminates every running resource.",
+      "Budget thresholds can use forecast spending.",
+      "A basic budget alert automatically shuts down every resource.",
+      "Budgets changes guest operating-system patches on EC2."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Budgets can notify users about threshold crossings. Budget thresholds can use forecast spending. Cost-analysis tools, pricing commitments, and governance controls serve different purposes."
+  },
+  {
+    "section": 4,
+    "topic": "Budget actions",
+    "source": "https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-controls.html",
+    "id": "4-5-a",
+    "type": "single",
+    "prompt": "A company already receives budget alerts but also wants a supported response to occur when a threshold is reached. What must it configure beyond a basic notification?",
+    "options": [
+      "An explicitly configured budget action",
+      "Assume every alert shuts down resources",
+      "A DNS record",
+      "An SSL certificate"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Budget actions require configuration beyond a basic alert. Notifications and remediation are different behaviors."
+  },
+  {
+    "section": 4,
+    "topic": "Budget actions",
+    "source": "https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-controls.html",
+    "id": "4-5-b",
+    "type": "multi",
+    "prompt": "A company already receives budget alerts but also wants a supported response to occur when a threshold is reached. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "Budget actions require configuration beyond a basic alert.",
+      "Every budget alert automatically deletes all EC2 instances.",
+      "Notifications and remediation are different behaviors.",
+      "Notification delivery itself guarantees automatic remediation.",
+      "Budget actions do not require separate configuration."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Budget actions require configuration beyond a basic alert. Notifications and remediation are different behaviors. Cost-analysis tools, pricing commitments, and governance controls serve different purposes."
+  },
+  {
+    "section": 4,
+    "topic": "Cost allocation tags",
+    "source": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/cost-alloc-tags.html",
+    "id": "4-6-a",
+    "type": "single",
+    "prompt": "A company operates separate AWS resources for Marketing, Finance, and Engineering projects. Management wants to categorize charges so spending can be attributed to each project. Which feature best supports this requirement?",
+    "options": [
+      "Activated cost allocation tags",
+      "Security group names alone",
+      "SSL certificates",
+      "NAT gateways"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Cost allocation tags categorize charges. Tags can represent projects or departments."
+  },
+  {
+    "section": 4,
+    "topic": "Cost allocation tags",
+    "source": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/cost-alloc-tags.html",
+    "id": "4-6-b",
+    "type": "multi",
+    "prompt": "A company operates separate AWS resources for Marketing, Finance, and Engineering projects. Management wants to categorize charges so spending can be attributed to each project. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "Cost allocation tags categorize charges.",
+      "A tag by itself is a firewall deny rule.",
+      "Tags can represent projects or departments.",
+      "Cost allocation tags automatically deny network traffic by project.",
+      "IAM group membership automatically replaces resource cost allocation tags."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Cost allocation tags categorize charges. Tags can represent projects or departments. Cost-analysis tools, pricing commitments, and governance controls serve different purposes."
+  },
+  {
+    "section": 4,
+    "topic": "Tag activation",
+    "source": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/cost-alloc-tags.html",
+    "id": "4-7-a",
+    "type": "single",
+    "prompt": "Engineers have added Project tags to resources, but finance wants those tags available for billing cost allocation. Which additional step should the company take?",
+    "options": [
+      "Activate the relevant cost allocation tags",
+      "Give every user root keys",
+      "Delete resource tags",
+      "Disable cost reporting"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Cost allocation tags must be activated for billing use. Resource tagging and billing activation are distinct steps."
+  },
+  {
+    "section": 4,
+    "topic": "Tag activation",
+    "source": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/cost-alloc-tags.html",
+    "id": "4-7-b",
+    "type": "multi",
+    "prompt": "Engineers have added Project tags to resources, but finance wants those tags available for billing cost allocation. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "Cost allocation tags must be activated for billing use.",
+      "Every newly created resource tag is automatically an active billing tag.",
+      "Resource tagging and billing activation are distinct steps.",
+      "Every resource tag is automatically activated as a billing tag.",
+      "Activating a cost tag merges its AWS accounts into one account."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Cost allocation tags must be activated for billing use. Resource tagging and billing activation are distinct steps. Cost-analysis tools, pricing commitments, and governance controls serve different purposes."
+  },
+  {
+    "section": 4,
+    "topic": "Consolidated billing",
+    "source": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidated-billing.html",
+    "id": "4-8-a",
+    "type": "single",
+    "prompt": "A company uses separate AWS accounts for its teams and wants their charges combined into one bill while retaining the account boundaries. Which feature best supports this requirement?",
+    "options": [
+      "AWS Organizations consolidated billing",
+      "Amazon Inspector",
+      "AWS Shield",
+      "An EBS snapshot"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Consolidated billing combines member account charges. Accounts can remain separate while their charges are combined."
+  },
+  {
+    "section": 4,
+    "topic": "Consolidated billing",
+    "source": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidated-billing.html",
+    "id": "4-8-b",
+    "type": "multi",
+    "prompt": "A company uses separate AWS accounts for its teams and wants their charges combined into one bill while retaining the account boundaries. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "Consolidated billing combines member account charges.",
+      "Consolidated billing merges all accounts into one security identity.",
+      "Accounts can remain separate while their charges are combined.",
+      "Consolidated billing merges every member account into one identity.",
+      "Combining bills automatically grants administrators access to all accounts."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Consolidated billing combines member account charges. Accounts can remain separate while their charges are combined. Cost-analysis tools, pricing commitments, and governance controls serve different purposes."
+  },
+  {
+    "section": 4,
+    "topic": "Volume discounts",
+    "source": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidated-billing.html",
+    "id": "4-9-a",
+    "type": "single",
+    "prompt": "Several AWS member accounts use services with eligible volume pricing tiers. Finance asks why consolidated billing could reduce some charges. What best explains the potential savings?",
+    "options": [
+      "Combined usage can reach volume discount tiers",
+      "All usage becomes free",
+      "IAM limits disappear",
+      "Every account uses the same password"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Eligible services can aggregate usage for volume pricing. Discounts depend on service-specific pricing rules."
+  },
+  {
+    "section": 4,
+    "topic": "Volume discounts",
+    "source": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidated-billing.html",
+    "id": "4-9-b",
+    "type": "multi",
+    "prompt": "Several AWS member accounts use services with eligible volume pricing tiers. Finance asks why consolidated billing could reduce some charges. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "Eligible services can aggregate usage for volume pricing.",
+      "Consolidated billing makes every AWS service free.",
+      "Discounts depend on service-specific pricing rules.",
+      "Aggregating usage guarantees every service becomes free.",
+      "Volume pricing means all regions and services have identical rates."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Eligible services can aggregate usage for volume pricing. Discounts depend on service-specific pricing rules. Cost-analysis tools, pricing commitments, and governance controls serve different purposes."
+  },
+  {
+    "section": 4,
+    "topic": "Account separation",
+    "source": "https://docs.aws.amazon.com/organizations/latest/userguide/orgs_introduction.html",
+    "id": "4-10-a",
+    "type": "single",
+    "prompt": "A company places development and production resources in separate AWS accounts. It wants clearer financial ownership and the ability to attribute spending by environment. Which benefit best describes this approach?",
+    "options": [
+      "Clearer ownership and cost allocation",
+      "Eliminate every security policy",
+      "Guarantee zero cost",
+      "Merge all resources"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Accounts can separate workloads and ownership. Per-account cost visibility helps financial accountability."
+  },
+  {
+    "section": 4,
+    "topic": "Account separation",
+    "source": "https://docs.aws.amazon.com/organizations/latest/userguide/orgs_introduction.html",
+    "id": "4-10-b",
+    "type": "multi",
+    "prompt": "A company places development and production resources in separate AWS accounts. It wants clearer financial ownership and the ability to attribute spending by environment. Which TWO statements correctly describe the concepts involved?",
+    "options": [
+      "Accounts can separate workloads and ownership.",
+      "Separate AWS accounts prevent consolidated billing.",
+      "Per-account cost visibility helps financial accountability.",
+      "Separate accounts prevent a company from consolidating billing.",
+      "Separating accounts automatically eliminates all resource charges."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Accounts can separate workloads and ownership. Per-account cost visibility helps financial accountability. Cost-analysis tools, pricing commitments, and governance controls serve different purposes."
+  },
+  {
+    "section": 4,
+    "topic": "Organizational units",
+    "source": "https://docs.aws.amazon.com/organizations/latest/userguide/orgs_introduction.html",
+    "id": "4-11-a",
+    "type": "single",
+    "prompt": "A company manages many AWS accounts and wants related project accounts grouped together so governance policies can be applied consistently. Which AWS Organizations feature best fits?",
+    "options": [
+      "Organizational units in AWS Organizations",
+      "S3 object prefixes",
+      "TLS session keys",
+      "EC2 instance store"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "OUs group accounts in an organization. Policies can be applied at organizational levels."
+  },
+  {
+    "section": 4,
+    "topic": "Organizational units",
+    "source": "https://docs.aws.amazon.com/organizations/latest/userguide/orgs_introduction.html",
+    "id": "4-11-b",
+    "type": "tf",
+    "prompt": "A company manages many AWS accounts and wants related project accounts grouped together so governance policies can be applied consistently. True or false: OUs group accounts in an organization.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "OUs group accounts in an organization. Policies can be applied at organizational levels."
+  },
+  {
+    "section": 4,
+    "topic": "Trusted Advisor",
+    "source": "https://docs.aws.amazon.com/awssupport/latest/user/trusted-advisor.html",
+    "id": "4-12-a",
+    "type": "single",
+    "prompt": "A company wants best-practice recommendations covering areas such as cost optimization, security, performance, and fault tolerance. Which AWS service best fits?",
+    "options": [
+      "AWS Trusted Advisor",
+      "AWS Artifact",
+      "AWS Certificate Manager",
+      "Amazon Route 53"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Trusted Advisor provides best-practice recommendations. Recommendations can identify optimization opportunities."
+  },
+  {
+    "section": 4,
+    "topic": "Trusted Advisor",
+    "source": "https://docs.aws.amazon.com/awssupport/latest/user/trusted-advisor.html",
+    "id": "4-12-b",
+    "type": "tf",
+    "prompt": "A company wants best-practice recommendations covering areas such as cost optimization, security, performance, and fault tolerance. True or false: Trusted Advisor is primarily a domain registration service.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Trusted Advisor provides best-practice recommendations. Recommendations can identify optimization opportunities."
+  },
+  {
+    "section": 4,
+    "topic": "On-Demand",
+    "source": "https://aws.amazon.com/pricing/",
+    "id": "4-13-a",
+    "type": "single",
+    "prompt": "A team needs EC2 capacity for a two-day experiment with uncertain usage. The job must tolerate no pricing-model interruptions, and the company does not want a long-term commitment. Which pricing option best fits?",
+    "options": [
+      "On-Demand Instances",
+      "Spot for mandatory uninterrupted execution",
+      "A three-year reservation",
+      "A required dedicated host"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "On-Demand fits short or unpredictable usage. It requires no long-term pricing commitment."
+  },
+  {
+    "section": 4,
+    "topic": "On-Demand",
+    "source": "https://aws.amazon.com/pricing/",
+    "id": "4-13-b",
+    "type": "tf",
+    "prompt": "A team needs EC2 capacity for a two-day experiment with uncertain usage. The job must tolerate no pricing-model interruptions, and the company does not want a long-term commitment. True or false: On-Demand fits short or unpredictable usage.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "On-Demand fits short or unpredictable usage. It requires no long-term pricing commitment."
+  },
+  {
+    "section": 4,
+    "topic": "Spot",
+    "source": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-spot-instances.html",
+    "id": "4-14-a",
+    "type": "single",
+    "prompt": "A company runs a batch-processing job that saves progress and can restart after interruption. Minimizing EC2 compute cost is more important than uninterrupted execution. Which pricing option best fits?",
+    "options": [
+      "Spot Instances",
+      "Root accounts",
+      "EBS snapshots",
+      "Public hosted zones"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Spot uses discounted spare EC2 capacity. Spot workloads must be designed for interruption."
+  },
+  {
+    "section": 4,
+    "topic": "Spot",
+    "source": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-spot-instances.html",
+    "id": "4-14-b",
+    "type": "tf",
+    "prompt": "A company runs a batch-processing job that saves progress and can restart after interruption. Minimizing EC2 compute cost is more important than uninterrupted execution. True or false: Spot guarantees uninterrupted compute for every job.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Spot uses discounted spare EC2 capacity. Spot workloads must be designed for interruption."
+  },
+  {
+    "section": 4,
+    "topic": "Reserved Instances",
+    "source": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-reserved-instances.html",
+    "id": "4-15-a",
+    "type": "single",
+    "prompt": "A company expects steady matching EC2 usage and can make an eligible one- or three-year reservation commitment for a billing discount. Which option best fits?",
+    "options": [
+      "Reserved Instances",
+      "DNS caching",
+      "A NAT gateway",
+      "An SSL certificate"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Reserved Instances provide billing discounts with commitments. They suit predictable matching usage."
+  },
+  {
+    "section": 4,
+    "topic": "Reserved Instances",
+    "source": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-reserved-instances.html",
+    "id": "4-15-b",
+    "type": "tf",
+    "prompt": "A company expects steady matching EC2 usage and can make an eligible one- or three-year reservation commitment for a billing discount. True or false: Reserved Instances provide billing discounts with commitments.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Reserved Instances provide billing discounts with commitments. They suit predictable matching usage."
+  },
+  {
+    "section": 4,
+    "topic": "Savings Plans",
+    "source": "https://docs.aws.amazon.com/savingsplans/latest/userguide/what-is-savings-plans.html",
+    "id": "4-16-a",
+    "type": "single",
+    "prompt": "A company can commit to a consistent amount of eligible compute spending, measured in dollars per hour, for one or three years. Which pricing option best supports this commitment?",
+    "options": [
+      "Savings Plans",
+      "AWS Artifact",
+      "An EC2 AMI",
+      "A route table"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Savings Plans exchange a spending commitment for discounts. A Savings Plan is a billing arrangement rather than a server image."
+  },
+  {
+    "section": 4,
+    "topic": "Savings Plans",
+    "source": "https://docs.aws.amazon.com/savingsplans/latest/userguide/what-is-savings-plans.html",
+    "id": "4-16-b",
+    "type": "tf",
+    "prompt": "A company can commit to a consistent amount of eligible compute spending, measured in dollars per hour, for one or three years. True or false: Savings Plans mean all compute is free after enrollment.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Savings Plans exchange a spending commitment for discounts. A Savings Plan is a billing arrangement rather than a server image."
+  },
+  {
+    "section": 4,
+    "topic": "Rightsizing cost",
+    "source": "https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/select-the-correct-resource-type-size-and-number.html",
+    "id": "4-17-a",
+    "type": "single",
+    "prompt": "An application uses only a small portion of its instance capacity. Engineers determine that a smaller resource will still meet its performance needs. Which cost optimization approach is illustrated?",
+    "options": [
+      "Rightsizing",
+      "Overprovisioning",
+      "DDoS mitigation",
+      "Certificate renewal"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Rightsizing avoids paying for unnecessary capacity. Workload requirements should guide resource choices."
+  },
+  {
+    "section": 4,
+    "topic": "Rightsizing cost",
+    "source": "https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/select-the-correct-resource-type-size-and-number.html",
+    "id": "4-17-b",
+    "type": "tf",
+    "prompt": "An application uses only a small portion of its instance capacity. Engineers determine that a smaller resource will still meet its performance needs. True or false: Rightsizing avoids paying for unnecessary capacity.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Rightsizing avoids paying for unnecessary capacity. Workload requirements should guide resource choices."
+  },
+  {
+    "section": 4,
+    "topic": "Idle resources",
+    "source": "https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/select-the-correct-resource-type-size-and-number.html",
+    "id": "4-18-a",
+    "type": "single",
+    "prompt": "A cost review finds unused resources that continue generating charges. The team wants to reduce waste without breaking application dependencies. What is the most appropriate action?",
+    "options": [
+      "Review dependencies and remove unneeded billable resources",
+      "Ignore them because unused means free",
+      "Give them root permissions",
+      "Add more idle capacity"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Unused resources can still generate charges. Reviewing idle capacity can reduce waste."
+  },
+  {
+    "section": 4,
+    "topic": "Idle resources",
+    "source": "https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/select-the-correct-resource-type-size-and-number.html",
+    "id": "4-18-b",
+    "type": "tf",
+    "prompt": "A cost review finds unused resources that continue generating charges. The team wants to reduce waste without breaking application dependencies. True or false: Idle AWS resources never create charges.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Unused resources can still generate charges. Reviewing idle capacity can reduce waste."
+  },
+  {
+    "section": 4,
+    "topic": "Cost forecasts",
+    "source": "https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html",
+    "id": "4-19-a",
+    "type": "single",
+    "prompt": "A finance team wants to estimate future AWS spending using historical cost trends. Which tool supports this type of forecast?",
+    "options": [
+      "AWS Cost Explorer",
+      "Amazon Macie",
+      "AWS ACM",
+      "A security group"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Cost Explorer can forecast costs. Forecasts are estimates, not invoice guarantees."
+  },
+  {
+    "section": 4,
+    "topic": "Cost forecasts",
+    "source": "https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html",
+    "id": "4-19-b",
+    "type": "tf",
+    "prompt": "A finance team wants to estimate future AWS spending using historical cost trends. True or false: Cost Explorer can forecast costs.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Cost Explorer can forecast costs. Forecasts are estimates, not invoice guarantees."
+  },
+  {
+    "section": 4,
+    "topic": "Calculator assumptions",
+    "source": "https://aws.amazon.com/aws-cost-management/aws-pricing-calculator/",
+    "id": "4-20-a",
+    "type": "single",
+    "prompt": "A planned architecture's actual usage will be much higher than the usage entered into its cost estimate. Finance wants a more useful estimate. What should the team do?",
+    "options": [
+      "Update usage assumptions and recalculate",
+      "Treat the estimate as a fixed invoice",
+      "Delete security controls",
+      "Stop measuring usage"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Cost estimates depend on realistic assumptions. Changing workload usage can change estimated cost."
+  },
+  {
+    "section": 4,
+    "topic": "Calculator assumptions",
+    "source": "https://aws.amazon.com/aws-cost-management/aws-pricing-calculator/",
+    "id": "4-20-b",
+    "type": "tf",
+    "prompt": "A planned architecture's actual usage will be much higher than the usage entered into its cost estimate. Finance wants a more useful estimate. True or false: An estimate remains exact even when usage assumptions change.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Cost estimates depend on realistic assumptions. Changing workload usage can change estimated cost."
+  },
+  {
+    "section": 4,
+    "topic": "Storage tradeoffs",
+    "source": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
+    "id": "4-21-a",
+    "type": "single",
+    "prompt": "A company rarely accesses retained records and can wait hours to retrieve them. The team wants to reduce storage cost while meeting retention requirements. Which approach best fits?",
+    "options": [
+      "An appropriate S3 archival class",
+      "Store all data on maximum-cost compute",
+      "Require instant retrieval at all times",
+      "Use only instance memory"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Archival storage trades retrieval characteristics for lower storage cost. Access frequency should guide storage-class selection."
+  },
+  {
+    "section": 4,
+    "topic": "Storage tradeoffs",
+    "source": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
+    "id": "4-21-b",
+    "type": "tf",
+    "prompt": "A company rarely accesses retained records and can wait hours to retrieve them. The team wants to reduce storage cost while meeting retention requirements. True or false: Archival storage trades retrieval characteristics for lower storage cost.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Archival storage trades retrieval characteristics for lower storage cost. Access frequency should guide storage-class selection."
+  },
+  {
+    "section": 4,
+    "topic": "Cost versus TCO",
+    "source": "https://media.amazonwebservices.com/AWS_TCO_Web_Applications.pdf",
+    "id": "4-22-a",
+    "type": "single",
+    "prompt": "A manager compares the cost of an AWS application with only the purchase price of an on-premises server. The comparison excludes facilities, electricity, maintenance, and staff effort. What is missing?",
+    "options": [
+      "A complete total cost of ownership analysis",
+      "A new public IP address",
+      "A root key",
+      "An EBS mount"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "TCO includes more than hardware purchase price. Operational expenses affect comparisons."
+  },
+  {
+    "section": 4,
+    "topic": "Cost versus TCO",
+    "source": "https://media.amazonwebservices.com/AWS_TCO_Web_Applications.pdf",
+    "id": "4-22-b",
+    "type": "tf",
+    "prompt": "A manager compares the cost of an AWS application with only the purchase price of an on-premises server. The comparison excludes facilities, electricity, maintenance, and staff effort. True or false: TCO is only the price printed on a server invoice.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "TCO includes more than hardware purchase price. Operational expenses affect comparisons."
+  },
+  {
+    "section": 4,
+    "topic": "Monitoring pairing",
+    "source": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html",
+    "id": "4-23-a",
+    "type": "single",
+    "prompt": "An engineer reviews EC2 utilization to identify potentially oversized resources. She needs CPU metrics and monitoring alarms rather than historical billing charts. Which service should she use?",
+    "options": [
+      "Amazon CloudWatch",
+      "AWS Artifact",
+      "AWS Certificate Manager",
+      "Amazon Macie"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "CloudWatch provides monitoring metrics and alarms. Utilization data can inform resource decisions."
+  },
+  {
+    "section": 4,
+    "topic": "Monitoring pairing",
+    "source": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html",
+    "id": "4-23-b",
+    "type": "tf",
+    "prompt": "An engineer reviews EC2 utilization to identify potentially oversized resources. She needs CPU metrics and monitoring alarms rather than historical billing charts. True or false: CloudWatch provides monitoring metrics and alarms.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "CloudWatch provides monitoring metrics and alarms. Utilization data can inform resource decisions."
+  },
+  {
+    "section": 4,
+    "topic": "Audit pairing",
+    "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html",
+    "id": "4-24-a",
+    "type": "single",
+    "prompt": "A company notices that an AWS resource was modified unexpectedly. An investigator needs records showing which identity made the API call and when. Which service should he use?",
+    "options": [
+      "AWS CloudTrail",
+      "AWS Pricing Calculator",
+      "Amazon EFS",
+      "AWS Budgets"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "CloudTrail records account and API activity. Activity records support investigations."
+  },
+  {
+    "section": 4,
+    "topic": "Audit pairing",
+    "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html",
+    "id": "4-24-b",
+    "type": "tf",
+    "prompt": "A company notices that an AWS resource was modified unexpectedly. An investigator needs records showing which identity made the API call and when. True or false: CloudTrail is primarily an EC2 CPU graph service.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "CloudTrail records account and API activity. Activity records support investigations."
+  },
+  {
+    "section": 4,
+    "topic": "Tool choice",
+    "source": "https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html",
+    "id": "4-25-a",
+    "type": "single",
+    "prompt": "Finance wants to analyze past AWS spending and receive notifications when future actual or forecast costs cross a chosen threshold. Which pair of tools best meets these requirements?",
+    "options": [
+      "Cost Explorer and AWS Budgets",
+      "ACM and Macie",
+      "Route 53 and EBS",
+      "Inspector and Shield"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Cost Explorer analyzes spending history. Budgets notifies about chosen spending thresholds."
+  },
+  {
+    "section": 4,
+    "topic": "Tool choice",
+    "source": "https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html",
+    "id": "4-25-b",
+    "type": "tf",
+    "prompt": "Finance wants to analyze past AWS spending and receive notifications when future actual or forecast costs cross a chosen threshold. True or false: Cost Explorer analyzes spending history.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Cost Explorer analyzes spending history. Budgets notifies about chosen spending thresholds."
+  },
+  {
+    "id": "2-extra-200",
+    "section": 2,
+    "topic": "AWS Config",
+    "type": "single",
+    "prompt": "An auditor needs to see how resource configurations changed over time and whether they satisfied configured compliance rules. API activity alone is not enough. Which AWS service best fits?",
+    "options": [
+      "AWS Config",
+      "AWS CloudTrail",
+      "AWS Pricing Calculator",
+      "Amazon Macie"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Config records resource configurations and evaluates them against configured rules. CloudTrail records API activity.",
+    "source": "https://docs.aws.amazon.com/config/latest/developerguide/WhatIsConfig.html"
+  },
+  {
+    "id": "2-extra-201",
+    "section": 2,
+    "topic": "AWS WAF",
+    "type": "single",
+    "prompt": "A web application receives HTTP requests containing malicious patterns. The team wants to inspect those requests and block matches using application-layer rules. Which AWS service best supports this requirement?",
+    "options": [
+      "AWS WAF",
+      "AWS KMS",
+      "Amazon Macie",
+      "AWS Artifact"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "WAF evaluates HTTP(S) requests against web access-control rules. Shield focuses on DDoS protection.",
+    "source": "https://docs.aws.amazon.com/waf/latest/developerguide/what-is-aws-waf.html"
+  },
+  {
+    "id": "2-extra-202",
+    "section": 2,
+    "topic": "Network ACLs",
+    "type": "multi",
+    "prompt": "A networking team needs controls at a subnet boundary and wants to explicitly deny selected traffic. Which TWO statements describe the appropriate network ACL behavior?",
+    "options": [
+      "They operate at subnet boundaries.",
+      "They are stateful.",
+      "They support explicit allow and deny rules.",
+      "They grant S3 API permissions.",
+      "They automatically allow return traffic."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Network ACLs are subnet-level, stateless controls supporting allow and deny rules. Return traffic must also be permitted.",
+    "source": "https://docs.aws.amazon.com/vpc/latest/userguide/infrastructure-security.html"
+  },
+  {
+    "id": "2-extra-203",
+    "section": 2,
+    "topic": "Security groups",
+    "type": "single",
+    "prompt": "An EC2 instance initiates an outbound connection permitted by its security group. A response arrives from the remote system. Does the security group require a separate inbound rule specifically for that reply?",
+    "options": [
+      "No, the group is stateful.",
+      "Yes, it is stateless.",
+      "Only if the instance has a role.",
+      "Only if the bucket is public."
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Security groups track connections and automatically permit response traffic for allowed connections.",
+    "source": "https://docs.aws.amazon.com/vpc/latest/userguide/infrastructure-security.html"
+  },
+  {
+    "id": "2-extra-204",
+    "section": 2,
+    "topic": "Compliance",
+    "type": "tf",
+    "prompt": "A company downloads an AWS compliance report and plans to use it in its own audit. Its application still has customer-managed permissions and configurations. True or false: Downloading an AWS Artifact report automatically makes a customer workload compliant.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "AWS provides evidence about its controls. Customers must satisfy the requirements that apply to their own workloads.",
+    "source": "https://aws.amazon.com/compliance/shared-responsibility-model/"
+  },
+  {
+    "id": "2-extra-205",
+    "section": 2,
+    "topic": "Policy wildcards",
+    "type": "single",
+    "prompt": "A developer proposes a policy statement with Effect: Allow, Action: *, and Resource: *. An administrator is reviewing it against least privilege. What is the main security implication?",
+    "options": [
+      "Broad permissions that should be narrowed to required access.",
+      "Only read access to one bucket.",
+      "A mandatory deny of all operations.",
+      "A limit to one object prefix."
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Wildcards can authorize very broad actions and resources, subject to other policy limits. Least privilege favors specific required access.",
+    "source": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html"
+  },
+  {
+    "id": "3-extra-206",
+    "section": 3,
+    "topic": "Load balancing",
+    "type": "single",
+    "prompt": "A company's web application runs on several EC2 instances. It needs incoming requests distributed among healthy targets rather than all traffic reaching one server. Which service best fits?",
+    "options": [
+      "Elastic Load Balancing",
+      "AWS CloudTrail",
+      "Amazon Macie",
+      "Amazon EBS"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Elastic Load Balancing distributes incoming traffic across registered targets and can use health checks.",
+    "source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-balancing.html"
+  },
+  {
+    "id": "3-extra-207",
+    "section": 3,
+    "topic": "Auto Scaling",
+    "type": "single",
+    "prompt": "A web application has unpredictable traffic. The company wants the number of EC2 instances to increase during heavy demand and decrease afterward using configured policies. Which service best fits?",
+    "options": [
+      "Amazon EC2 Auto Scaling",
+      "Amazon Route 53",
+      "Amazon Redshift",
+      "AWS Artifact"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "EC2 Auto Scaling adjusts the number of instances using scaling policies and other configured controls.",
+    "source": "https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html"
+  },
+  {
+    "id": "3-extra-208",
+    "section": 3,
+    "topic": "Transit Gateway",
+    "type": "single",
+    "prompt": "A company has many VPCs and on-premises networks. It wants a central connectivity hub instead of managing a separate connection between every network pair. Which service best fits?",
+    "options": [
+      "AWS Transit Gateway",
+      "AWS Certificate Manager",
+      "Amazon EBS",
+      "AWS Secrets Manager"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Transit Gateway connects VPCs and on-premises networks through a central hub.",
+    "source": "https://docs.aws.amazon.com/vpc/latest/tgw/what-is-transit-gateway.html"
+  },
+  {
+    "id": "3-extra-209",
+    "section": 3,
+    "topic": "DynamoDB",
+    "type": "single",
+    "prompt": "A high-traffic application stores key-value and document data without a relational schema. The team wants a managed NoSQL database designed for performance at scale. Which service best fits?",
+    "options": [
+      "Amazon DynamoDB",
+      "Amazon Redshift",
+      "Amazon EFS",
+      "Amazon Route 53"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "DynamoDB is a managed NoSQL database for key-value and document workloads.",
+    "source": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html"
+  },
+  {
+    "id": "3-extra-210",
+    "section": 3,
+    "topic": "Archival storage",
+    "type": "single",
+    "prompt": "A company must retain records for years, but rarely reads them. Retrieval can take hours, and minimizing long-term storage cost is a priority. Which storage option best fits?",
+    "options": [
+      "S3 Glacier Deep Archive",
+      "EC2 instance store",
+      "Amazon Route 53",
+      "An EC2 AMI"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Deep Archive suits long-term rarely accessed objects when delayed retrieval is acceptable.",
+    "source": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html"
+  },
+  {
+    "id": "3-extra-211",
+    "section": 3,
+    "topic": "Public subnets",
+    "type": "multi",
+    "prompt": "An EC2 instance must communicate directly with the IPv4 internet. Its security rules are configured appropriately. Which TWO additional conditions support this connectivity?",
+    "options": [
+      "A subnet route to an attached internet gateway.",
+      "A public IPv4 address or Elastic IP.",
+      "An IAM administrator policy alone.",
+      "An EBS snapshot.",
+      "A public S3 bucket."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explanation": "Direct connectivity requires routing and a public address, as well as appropriate security group and network ACL rules.",
+    "source": "https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html"
+  },
+  {
+    "id": "3-extra-212",
+    "section": 3,
+    "topic": "Availability Zones",
+    "type": "tf",
+    "prompt": "An architect plans resources across multiple AZs and is reviewing the relationship between Regions and Availability Zones. True or false: An Availability Zone can span multiple AWS Regions.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "An AZ belongs to one Region. Multiple AZs within a Region provide separate failure domains.",
+    "source": "https://aws.amazon.com/about-aws/global-infrastructure/regions_az/"
+  },
+  {
+    "id": "3-extra-213",
+    "section": 3,
+    "topic": "S3 durability",
+    "type": "tf",
+    "prompt": "A company stores important objects in S3 Standard and wants to understand how the storage design protects against data loss. True or false: S3 Standard stores object data redundantly across multiple Availability Zones.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "S3 Standard is designed for durable storage across multiple AZs. Durability concerns avoiding data loss, rather than whether a request can be served now.",
+    "source": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html"
+  },
+  {
+    "id": "3-extra-214",
+    "section": 3,
+    "topic": "EBS placement",
+    "type": "single",
+    "prompt": "An administrator wants to detach an existing EBS volume and attach it directly to another compatible EC2 instance. In which location must the target instance be?",
+    "options": [
+      "The same Availability Zone.",
+      "Any Region automatically.",
+      "Every AZ simultaneously by default.",
+      "Only an edge location."
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "EBS volumes are AZ-scoped. Snapshots can create new volumes in another AZ; an existing volume does not directly span AZs.",
+    "source": "https://docs.aws.amazon.com/ebs/latest/userguide/what-is-ebs.html"
+  },
+  {
+    "id": "3-extra-215",
+    "section": 3,
+    "topic": "Storage selection",
+    "type": "multi",
+    "prompt": "A team needs a virtual disk for one workload and a shared file system for another. It is comparing the main storage interfaces available on AWS. Which TWO pairings are correct?",
+    "options": [
+      "EBS: block storage.",
+      "EFS: shared file storage.",
+      "S3: a guest operating system.",
+      "Instance store: a permanent archive after termination.",
+      "An AMI: a subnet firewall."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explanation": "EBS offers block storage; EFS offers file storage; S3 offers object storage.",
+    "source": "https://docs.aws.amazon.com/efs/latest/ug/"
+  }
+]
