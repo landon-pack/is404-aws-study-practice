@@ -16,11 +16,13 @@ An interactive study site for AWS Academy Cloud Foundations Modules 1–8, organ
 ## Run locally
 
 This app uses HTML, CSS, and JavaScript with no build dependencies.
-Visit http://localhost:8000. Use a web server rather than opening index.html directly because the app fetches questions.json.
+Use a web server rather than opening index.html directly because the app fetches questions.json.
 
 ## GitHub Pages
 
 The site is deployed live through github
+
+https://landon-pack.github.io/is404-aws-study-lab/
 
 ## Question bank
 
