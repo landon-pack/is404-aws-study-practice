@@ -2,8 +2,6 @@
 
 An interactive study site for AWS Academy Cloud Foundations Modules 1–8, organized into four midterm domains.
 
-[Live study site](https://is404-aws-study-lab.pthb8gkck4.chatgpt.site)
-
 ## Features
 
 - 216 scenario-based practice questions across four sections
@@ -18,16 +16,11 @@ An interactive study site for AWS Academy Cloud Foundations Modules 1–8, organ
 ## Run locally
 
 This app uses HTML, CSS, and JavaScript with no build dependencies.
-
-```sh
-python3 -m http.server 8000
-```
-
 Visit http://localhost:8000. Use a web server rather than opening index.html directly because the app fetches questions.json.
 
 ## GitHub Pages
 
-In the repository's Settings > Pages, deploy from the main branch and the root directory.
+The site is deployed live through github
 
 ## Question bank
 
