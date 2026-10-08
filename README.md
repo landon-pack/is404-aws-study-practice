@@ -22,7 +22,7 @@ Use a web server rather than opening index.html directly because the app fetches
 
 The site is deployed live through github
 
-https://landon-pack.github.io/is404-aws-study-lab/
+https://landon-pack.github.io/is404-aws-study-practice/
 
 ## Question bank
 
